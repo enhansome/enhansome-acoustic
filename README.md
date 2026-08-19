@@ -45,8 +45,8 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package                                                                                                       | Description                                                                                                       | Language |
 | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------- |
-| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) ⭐ 106 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-18          | \[Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.                              | Python   |
-| [Acoular](https://github.com/acoular/acoular) ⭐ 650 \| 🐛 50 \| 🌐 Python \| 📅 2026-08-18                    | Acoustic testing and source mapping software                                                                      | Python   |
+| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) ⭐ 106 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-19          | \[Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.                              | Python   |
+| [Acoular](https://github.com/acoular/acoular) ⭐ 650 \| 🐛 50 \| 🌐 Python \| 📅 2026-08-19                    | Acoustic testing and source mapping software                                                                      | Python   |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) ⭐ 5 \| 🐛 0 \| 🌐 Python \| 📅 2025-09-09 | An open-source implementation of CLEAN-T acoustic imaging technique                                               | Python   |
 | [paderwasn](https://github.com/fgnt/paderwasn) ⭐ 20 \| 🐛 0 \| 🌐 Python \| 📅 2025-05-08                     | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python   |
 | [pyDMD](https://github.com/PyDMD/PyDMD) ⭐ 1,250 \| 🐛 47 \| 🌐 Python \| 📅 2025-12-19                        | Python Dynamic Mode Decomposition                                                                                 | Python   |
@@ -86,10 +86,10 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | [OURS](https://github.com/rivm-syso/OURS) ⭐ 8 \| 🐛 7 \| 🌐 Pascal \| 📅 2026-08-13                   | Dutch calculation method for railway vibrations                                                                                                       | Pascal           |
 | [Code\_Aster](https://gitlab.com/codeaster/src)                                                       | Code\_Aster is a general-purpose finite element software package for numerical simulation in structural mechanics, heat transfer, and fluid dynamics. | Python           |
-| [FEniCS](https://github.com/FEniCS/dolfinx) ⭐ 1,185 \| 🐛 123 \| 🌐 C++ \| 📅 2026-08-18              | Next generation FEniCS problem solving environment                                                                                                    | C++              |
+| [FEniCS](https://github.com/FEniCS/dolfinx) ⭐ 1,185 \| 🐛 124 \| 🌐 C++ \| 📅 2026-08-19              | Next generation FEniCS problem solving environment                                                                                                    | C++              |
 | [pyOMA2](https://github.com/dagghe/pyOMA2) ⭐ 64 \| 🐛 6 \| 🌐 Python \| 📅 2026-08-17                 | Python module for conducting operational modal analysis                                                                                               | Python           |
 | [bempp-cl](https://github.com/bempp/bempp-cl) ⭐ 219 \| 🐛 32 \| 🌐 Python \| 📅 2026-08-17            | A fast Python based just-in-time compiling boundary element library                                                                                   | Python           |
-| [VIBRA](https://github.com/MOPT-UFSC/VIBRA) ⭐ 17 \| 🐛 55 \| 🌐 Python \| 📅 2026-08-18               | Vibroacoustic Analysis using the Finite Element Method                                                                                                | Python           |
+| [VIBRA](https://github.com/MOPT-UFSC/VIBRA) ⭐ 17 \| 🐛 55 \| 🌐 Python \| 📅 2026-08-19               | Vibroacoustic Analysis using the Finite Element Method                                                                                                | Python           |
 | [pyva](https://github.com/minipief/pyva) ⭐ 35 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-04                   | Python toolbox for vibroacoustics                                                                                                                     | Python           |
 | [optimus](https://github.com/optimuslib/optimus) ⭐ 34 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2026-08-11 | The official repository of OptimUS: a Python library for solving 3D acoustic wave propagation.                                                        | Jupyter Notebook |
 
@@ -106,7 +106,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | Package                                                                                                     | Description                                                                                                                         | Language |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [BirdNET](https://github.com/kahst/BirdNET-Analyzer) ⭐ 1,673 \| 🐛 79 \| 🌐 Python \| 📅 2026-08-17         | BirdNET analyzer for scientific audio data processing.                                                                              | Python   |
-| [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) ⭐ 1,085 \| 🐛 59 \| 🌐 PHP \| 📅 2026-02-28         | A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET. | PHP      |
+| [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) ⭐ 1,087 \| 🐛 59 \| 🌐 PHP \| 📅 2026-02-28         | A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET. | PHP      |
 | [PAMGuard](https://github.com/PAMGuard/PAMGuard) ⭐ 69 \| 🐛 29 \| 🌐 Java \| 📅 2026-08-18                  | Detection, Classification, and Localisation of marine mammal and other bioacoustic signals                                          | Java     |
 | [AudioMoth](https://github.com/OpenAcousticDevices/AudioMoth-Project) ⭐ 66 \| 🐛 0 \| 🌐 C \| 📅 2026-05-21 | A minimal project on which all AudioMoth firmware can be built.                                                                     | C        |
 | [vak](https://github.com/vocalpy/vak) ⭐ 92 \| 🐛 136 \| 🌐 Python \| 📅 2026-03-13                          | A neural network framework for researchers studying acoustic communication                                                          | Python   |
@@ -130,7 +130,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package                                                                                                        | Description                                                                                      | Language |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------- |
-| [librosa](https://github.com/librosa/librosa) ⭐ 8,565 \| 🐛 47 \| 🌐 Python \| 📅 2026-08-18                   | Python library for audio and music analysis                                                      | Python   |
+| [librosa](https://github.com/librosa/librosa) ⭐ 8,565 \| 🐛 47 \| 🌐 Python \| 📅 2026-08-19                   | Python library for audio and music analysis                                                      | Python   |
 | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,254 \| 🐛 205 \| 🌐 Python \| 📅 2025-08-04 | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications | Python   |
 | [madmom](https://github.com/CPJKU/madmom) ⭐ 1,696 \| 🐛 81 \| 🌐 Python \| 📅 2026-03-20                       | Python audio and music signal processing library                                                 | Python   |
 | [audioFlux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,348 \| 🐛 16 \| 🌐 C \| 📅 2026-03-06               | A library for audio and music analysis, feature extraction.                                      | C        |
@@ -140,7 +140,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | Package                                                                                     | Description                                                                             | Language |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- |
 | [tascar](https://github.com/gisogrimm/tascar/) ⭐ 45 \| 🐛 3 \| 🌐 C++ \| 📅 2026-07-20      | toolbox for acoustic scene creation and rendering                                       | C++      |
-| [openMHA](https://github.com/HoerTech-gGmbH/openMHA) ⭐ 329 \| 🐛 1 \| 🌐 C \| 📅 2026-08-05 | The open Master Hearing Aid (openMHA)                                                   | C        |
+| [openMHA](https://github.com/HoerTech-gGmbH/openMHA) ⭐ 330 \| 🐛 1 \| 🌐 C \| 📅 2026-08-05 | The open Master Hearing Aid (openMHA)                                                   | C        |
 | [Cape4all](https://github.com/HoerTech-gGmbH/Cape4all) ⭐ 32 \| 🐛 0 \| 📅 2020-07-03        | Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black | None     |
 
 ## Education
@@ -166,7 +166,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [YamNet](https://github.com/antonyharfield/tflite-models-audioset-yamnet) ⭐ 31 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-06-13        | A TFLite-compatible fork of YAMNet from tensorflow/models                        | Jupyter Notebook |
 | [CLAP](https://github.com/microsoft/CLAP) ⭐ 675 \| 🐛 16 \| 🌐 Python \| 📅 2024-09-18                                                | Learning audio concepts from natural language supervision                        | Python           |
 | [PANN with 1/3 octaves](https://github.com/modantailleur/paperSoundscapeSourceClassification) ⭐ 3 \| 🐛 0 \| 🌐 HTML \| 📅 2025-08-26 | PANN with 1/3 octaves for soundscape source classification                       | HTML             |
-| [BEATs](https://github.com/microsoft/unilm/tree/master/beats) ⭐ 22,190 \| 🐛 683 \| 🌐 Python \| 📅 2026-01-23                        | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python           |
+| [BEATs](https://github.com/microsoft/unilm/tree/master/beats) ⭐ 22,192 \| 🐛 683 \| 🌐 Python \| 📅 2026-01-23                        | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python           |
 
 ## Books
 
@@ -191,9 +191,9 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package                                                                                    | Description                                                                                                 | Language |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | -------- |
-| [ObsPy](https://github.com/obspy/obspy) ⭐ 1,327 \| 🐛 311 \| 🌐 Python \| 📅 2026-08-10    | ObsPy: A Python Toolbox for seismology/seismological observatories.                                         | Python   |
+| [ObsPy](https://github.com/obspy/obspy) ⭐ 1,329 \| 🐛 311 \| 🌐 Python \| 📅 2026-08-10    | ObsPy: A Python Toolbox for seismology/seismological observatories.                                         | Python   |
 | [Pyrocko](https://github.com/pyrocko/pyrocko) ⭐ 248 \| 🐛 46 \| 🌐 Python \| 📅 2026-08-04 | An official read-only mirror of <https://git.pyrocko.org/pyrocko/pyrocko>. A seismology toolkit for Python. | Python   |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

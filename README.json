@@ -1,89 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "General Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Signal Processing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Room Acoustics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Environment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "FEM, Materials, Vibrations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Soundscape"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bioacoustics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Databases"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Music"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Health"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Education"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AeroAcoustics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI, Machine Learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Hardware"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Seismology"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T23:41:46.573Z",
+    "last_updated": "2026-08-19T12:16:51.543Z",
     "original_repository": "Nitnelav/awesome-acoustic",
+    "original_repository_id": 850246299,
     "original_repository_sha": "4e3b90d5a3c5d66d33a1ffbf8a6060fa50fe8faf",
     "enhanced_repository": "enhansome/enhansome-acoustic",
     "enhanced_repository_description": null,
