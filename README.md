@@ -45,7 +45,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package                                                                                                       | Description                                                                                                       | Language |
 | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------- |
-| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) ⭐ 106 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-19          | \[Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.                              | Python   |
+| [PyOctaveBand](https://github.com/jmrplens/PyOctaveBand) ⭐ 107 \| 🐛 2 \| 🌐 Python \| 📅 2026-08-19          | \[Python3] Octave-Band and Fractional Octave-Band filter. For signal in time domain.                              | Python   |
 | [Acoular](https://github.com/acoular/acoular) ⭐ 650 \| 🐛 50 \| 🌐 Python \| 📅 2026-08-19                    | Acoustic testing and source mapping software                                                                      | Python   |
 | [CleanTiPy](https://github.com/Universite-Gustave-Eiffel/CleanTiPy) ⭐ 5 \| 🐛 0 \| 🌐 Python \| 📅 2025-09-09 | An open-source implementation of CLEAN-T acoustic imaging technique                                               | Python   |
 | [paderwasn](https://github.com/fgnt/paderwasn) ⭐ 20 \| 🐛 0 \| 🌐 Python \| 📅 2025-05-08                     | Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs). | Python   |
@@ -89,7 +89,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [FEniCS](https://github.com/FEniCS/dolfinx) ⭐ 1,185 \| 🐛 124 \| 🌐 C++ \| 📅 2026-08-19              | Next generation FEniCS problem solving environment                                                                                                    | C++              |
 | [pyOMA2](https://github.com/dagghe/pyOMA2) ⭐ 64 \| 🐛 6 \| 🌐 Python \| 📅 2026-08-17                 | Python module for conducting operational modal analysis                                                                                               | Python           |
 | [bempp-cl](https://github.com/bempp/bempp-cl) ⭐ 219 \| 🐛 32 \| 🌐 Python \| 📅 2026-08-17            | A fast Python based just-in-time compiling boundary element library                                                                                   | Python           |
-| [VIBRA](https://github.com/MOPT-UFSC/VIBRA) ⭐ 17 \| 🐛 55 \| 🌐 Python \| 📅 2026-08-19               | Vibroacoustic Analysis using the Finite Element Method                                                                                                | Python           |
+| [VIBRA](https://github.com/MOPT-UFSC/VIBRA) ⭐ 17 \| 🐛 56 \| 🌐 Python \| 📅 2026-08-19               | Vibroacoustic Analysis using the Finite Element Method                                                                                                | Python           |
 | [pyva](https://github.com/minipief/pyva) ⭐ 35 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-04                   | Python toolbox for vibroacoustics                                                                                                                     | Python           |
 | [optimus](https://github.com/optimuslib/optimus) ⭐ 34 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2026-08-11 | The official repository of OptimUS: a Python library for solving 3D acoustic wave propagation.                                                        | Jupyter Notebook |
 
@@ -105,15 +105,15 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package                                                                                                     | Description                                                                                                                         | Language |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [BirdNET](https://github.com/kahst/BirdNET-Analyzer) ⭐ 1,673 \| 🐛 79 \| 🌐 Python \| 📅 2026-08-17         | BirdNET analyzer for scientific audio data processing.                                                                              | Python   |
-| [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) ⭐ 1,087 \| 🐛 59 \| 🌐 PHP \| 📅 2026-02-28         | A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET. | PHP      |
-| [PAMGuard](https://github.com/PAMGuard/PAMGuard) ⭐ 69 \| 🐛 29 \| 🌐 Java \| 📅 2026-08-18                  | Detection, Classification, and Localisation of marine mammal and other bioacoustic signals                                          | Java     |
+| [BirdNET](https://github.com/kahst/BirdNET-Analyzer) ⭐ 1,674 \| 🐛 79 \| 🌐 Python \| 📅 2026-08-17         | BirdNET analyzer for scientific audio data processing.                                                                              | Python   |
+| [BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) ⭐ 1,088 \| 🐛 59 \| 🌐 PHP \| 📅 2026-02-28         | A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET. | PHP      |
+| [PAMGuard](https://github.com/PAMGuard/PAMGuard) ⭐ 69 \| 🐛 29 \| 🌐 Java \| 📅 2026-08-19                  | Detection, Classification, and Localisation of marine mammal and other bioacoustic signals                                          | Java     |
 | [AudioMoth](https://github.com/OpenAcousticDevices/AudioMoth-Project) ⭐ 66 \| 🐛 0 \| 🌐 C \| 📅 2026-05-21 | A minimal project on which all AudioMoth firmware can be built.                                                                     | C        |
 | [vak](https://github.com/vocalpy/vak) ⭐ 92 \| 🐛 136 \| 🌐 Python \| 📅 2026-03-13                          | A neural network framework for researchers studying acoustic communication                                                          | Python   |
 | [warbleR](https://github.com/maRce10/warbleR) ⭐ 62 \| 🐛 23 \| 🌐 R \| 📅 2026-04-24                        | streamline acoustic analysis in R                                                                                                   | R        |
 | [Acoupi](https://github.com/acoupi/acoupi) ⭐ 46 \| 🐛 16 \| 🌐 Python \| 📅 2026-08-17                      | Python toolkit to implement bioacoustics classifier on embedded systems.                                                            | Python   |
 | [Crowsetta](https://github.com/vocalpy/crowsetta) ⭐ 62 \| 🐛 42 \| 🌐 Python \| 📅 2025-12-16               | A tool to work with any format for annotating animal sounds                                                                         | Python   |
-| [opensoundscape](https://github.com/kitzeslab/opensoundscape) ⭐ 218 \| 🐛 88 \| 🌐 Python \| 📅 2026-08-09  | Open source, scalable software for the analysis of bioacoustic recordings                                                           | Python   |
+| [opensoundscape](https://github.com/kitzeslab/opensoundscape) ⭐ 218 \| 🐛 89 \| 🌐 Python \| 📅 2026-08-09  | Open source, scalable software for the analysis of bioacoustic recordings                                                           | Python   |
 
 ## Databases
 
@@ -123,14 +123,14 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [DCASE](https://github.com/DCASE-REPO/dcase_datalist) ⭐ 18 \| 🐛 0 \| 🌐 HTML \| 📅 2025-06-12                          | Collection of DCASE related datasets                                                                                                           | HTML             |
 | [xeno-canto](https://xeno-canto.org/)                                                                                   | A community-driven site for sharing and discovering bird sounds                                                                                |                  |
 | [The International Soundscape Database](https://zenodo.org/records/10672568)                                            | The International Soundscape Database contains the results of a series of soundscape assessment campaigns carried out across Europe and China. |                  |
-| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) ⭐ 602 \| 🐛 3 \| 🌐 Shell \| 📅 2026-05-11 | A list of publicly available room impulse response datasets and scripts to download them.                                                      | Shell            |
+| [room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) ⭐ 603 \| 🐛 3 \| 🌐 Shell \| 📅 2026-05-11 | A list of publicly available room impulse response datasets and scripts to download them.                                                      | Shell            |
 | [BirdSet](https://github.com/DBD-research-group/BirdSet) ⭐ 80 \| 🐛 18 \| 🌐 Jupyter Notebook \| 📅 2026-05-28          | A benchmark dataset collection for bird sound classification                                                                                   | Jupyter Notebook |
 
 ## Music
 
 | Package                                                                                                        | Description                                                                                      | Language |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------- |
-| [librosa](https://github.com/librosa/librosa) ⭐ 8,565 \| 🐛 47 \| 🌐 Python \| 📅 2026-08-19                   | Python library for audio and music analysis                                                      | Python   |
+| [librosa](https://github.com/librosa/librosa) ⭐ 8,566 \| 🐛 47 \| 🌐 Python \| 📅 2026-08-19                   | Python library for audio and music analysis                                                      | Python   |
 | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,254 \| 🐛 205 \| 🌐 Python \| 📅 2025-08-04 | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications | Python   |
 | [madmom](https://github.com/CPJKU/madmom) ⭐ 1,696 \| 🐛 81 \| 🌐 Python \| 📅 2026-03-20                       | Python audio and music signal processing library                                                 | Python   |
 | [audioFlux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,348 \| 🐛 16 \| 🌐 C \| 📅 2026-03-06               | A library for audio and music analysis, feature extraction.                                      | C        |
@@ -166,7 +166,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [YamNet](https://github.com/antonyharfield/tflite-models-audioset-yamnet) ⭐ 31 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2020-06-13        | A TFLite-compatible fork of YAMNet from tensorflow/models                        | Jupyter Notebook |
 | [CLAP](https://github.com/microsoft/CLAP) ⭐ 675 \| 🐛 16 \| 🌐 Python \| 📅 2024-09-18                                                | Learning audio concepts from natural language supervision                        | Python           |
 | [PANN with 1/3 octaves](https://github.com/modantailleur/paperSoundscapeSourceClassification) ⭐ 3 \| 🐛 0 \| 🌐 HTML \| 📅 2025-08-26 | PANN with 1/3 octaves for soundscape source classification                       | HTML             |
-| [BEATs](https://github.com/microsoft/unilm/tree/master/beats) ⭐ 22,192 \| 🐛 683 \| 🌐 Python \| 📅 2026-01-23                        | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python           |
+| [BEATs](https://github.com/microsoft/unilm/tree/master/beats) ⭐ 22,193 \| 🐛 683 \| 🌐 Python \| 📅 2026-01-23                        | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | Python           |
 
 ## Books
 
@@ -191,7 +191,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 
 | Package                                                                                    | Description                                                                                                 | Language |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | -------- |
-| [ObsPy](https://github.com/obspy/obspy) ⭐ 1,329 \| 🐛 311 \| 🌐 Python \| 📅 2026-08-10    | ObsPy: A Python Toolbox for seismology/seismological observatories.                                         | Python   |
+| [ObsPy](https://github.com/obspy/obspy) ⭐ 1,328 \| 🐛 311 \| 🌐 Python \| 📅 2026-08-10    | ObsPy: A Python Toolbox for seismology/seismological observatories.                                         | Python   |
 | [Pyrocko](https://github.com/pyrocko/pyrocko) ⭐ 248 \| 🐛 46 \| 🌐 Python \| 📅 2026-08-04 | An official read-only mirror of <https://git.pyrocko.org/pyrocko/pyrocko>. A seismology toolkit for Python. | Python   |
 
 ***
