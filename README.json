@@ -495,7 +495,7 @@
             "archived": false,
             "id": 1021931493,
             "language": "C++",
-            "last_commit": "2026-08-24T14:25:17Z",
+            "last_commit": "2026-08-24T17:27:13Z",
             "owner": "misuka-renderer",
             "repo": "misuka",
             "stars": 45
@@ -549,7 +549,7 @@
             "last_commit": "2026-07-22T09:53:00Z",
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseCapture",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -597,7 +597,7 @@
             "archived": false,
             "id": 263941943,
             "language": "Pascal",
-            "last_commit": "2026-08-13T09:20:33Z",
+            "last_commit": "2026-08-24T14:55:45Z",
             "owner": "rivm-syso",
             "repo": "OURS",
             "stars": 8
@@ -612,10 +612,10 @@
             "archived": false,
             "id": 128214585,
             "language": "C++",
-            "last_commit": "2026-08-24T12:54:01Z",
+            "last_commit": "2026-08-24T22:06:05Z",
             "owner": "FEniCS",
             "repo": "dolfinx",
-            "stars": 1185
+            "stars": 1186
           }
         },
         {
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 662679851,
             "language": "Python",
-            "last_commit": "2026-08-24T12:58:39Z",
+            "last_commit": "2026-08-24T21:48:17Z",
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
             "stars": 17
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 409216041,
             "language": "Python",
-            "last_commit": "2026-08-22T00:00:27Z",
+            "last_commit": "2026-08-24T14:50:15Z",
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
             "stars": 1679
@@ -777,7 +777,7 @@
             "last_commit": "2026-02-28T09:58:01Z",
             "owner": "Nachtzuster",
             "repo": "BirdNET-Pi",
-            "stars": 1092
+            "stars": 1093
           }
         },
         {
@@ -879,7 +879,7 @@
             "archived": false,
             "id": 149182373,
             "language": "Python",
-            "last_commit": "2026-08-09T06:49:34Z",
+            "last_commit": "2026-08-24T23:14:27Z",
             "owner": "kitzeslab",
             "repo": "opensoundscape",
             "stars": 218
@@ -948,7 +948,7 @@
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3349
+            "stars": 3350
           }
         }
       ],
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22195
+            "stars": 22194
           }
         }
       ],
@@ -1221,7 +1221,7 @@
             "archived": false,
             "id": 5731348,
             "language": "Python",
-            "last_commit": "2026-08-10T21:22:44Z",
+            "last_commit": "2026-08-24T21:18:53Z",
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1329
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:37:36.275Z",
+    "last_updated": "2026-08-24T23:41:26.715Z",
     "original_repository": "Nitnelav/awesome-acoustic",
     "original_repository_id": 850246299,
     "original_repository_sha": "25be1e57e273341147d8b922e22091f56d1db182",
