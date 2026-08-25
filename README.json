@@ -108,7 +108,7 @@
             "archived": false,
             "id": 307803156,
             "language": "Python",
-            "last_commit": "2026-08-24T09:49:34Z",
+            "last_commit": "2026-08-25T14:41:56Z",
             "owner": "pyfar",
             "repo": "pyfar",
             "stars": 135
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 627001780,
             "language": "AGS Script",
-            "last_commit": "2026-08-21T23:19:29Z",
+            "last_commit": "2026-08-25T12:50:04Z",
             "owner": "ggrecow",
             "repo": "SQAT",
             "stars": 100
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 275682981,
             "language": "Python",
-            "last_commit": "2026-08-24T07:18:05Z",
+            "last_commit": "2026-08-25T19:08:38Z",
             "owner": "jmrplens",
             "repo": "phonometry",
-            "stars": 108
+            "stars": 106
           }
         },
         {
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 29729101,
             "language": "Python",
-            "last_commit": "2026-08-24T11:59:40Z",
+            "last_commit": "2026-08-25T16:22:08Z",
             "owner": "acoular",
             "repo": "acoular",
             "stars": 650
@@ -282,7 +282,7 @@
             "last_commit": "2025-12-19T16:34:30Z",
             "owner": "PyDMD",
             "repo": "PyDMD",
-            "stars": 1250
+            "stars": 1251
           }
         }
       ],
@@ -420,7 +420,7 @@
             "archived": false,
             "id": 294441447,
             "language": "Python",
-            "last_commit": "2026-08-24T12:14:18Z",
+            "last_commit": "2026-08-25T16:04:07Z",
             "owner": "pyfar",
             "repo": "pyrato",
             "stars": 24
@@ -453,7 +453,7 @@
             "last_commit": "2026-03-04T05:38:45Z",
             "owner": "yongyizang",
             "repo": "GSound-SIR",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -495,7 +495,7 @@
             "archived": false,
             "id": 1021931493,
             "language": "C++",
-            "last_commit": "2026-08-24T17:27:13Z",
+            "last_commit": "2026-08-25T14:43:31Z",
             "owner": "misuka-renderer",
             "repo": "misuka",
             "stars": 45
@@ -576,7 +576,7 @@
             "archived": false,
             "id": 803891844,
             "language": "Python",
-            "last_commit": "2026-08-21T16:22:07Z",
+            "last_commit": "2026-08-25T15:42:00Z",
             "owner": "sparrow-acoustics",
             "repo": "sparrowpy",
             "stars": 22
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 128214585,
             "language": "C++",
-            "last_commit": "2026-08-25T06:03:02Z",
+            "last_commit": "2026-08-25T18:56:46Z",
             "owner": "FEniCS",
             "repo": "dolfinx",
             "stars": 1186
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-17T11:34:43Z",
             "owner": "dagghe",
             "repo": "pyOMA2",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -657,10 +657,10 @@
             "archived": false,
             "id": 662679851,
             "language": "Python",
-            "last_commit": "2026-08-24T21:48:17Z",
+            "last_commit": "2026-08-25T22:07:25Z",
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -759,10 +759,10 @@
             "archived": false,
             "id": 409216041,
             "language": "Python",
-            "last_commit": "2026-08-24T14:50:15Z",
+            "last_commit": "2026-08-25T17:26:07Z",
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1678
+            "stars": 1679
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22193
+            "stars": 22194
           }
         }
       ],
@@ -1221,7 +1221,7 @@
             "archived": false,
             "id": 5731348,
             "language": "Python",
-            "last_commit": "2026-08-24T21:18:53Z",
+            "last_commit": "2026-08-25T21:06:22Z",
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1329
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:43.034Z",
+    "last_updated": "2026-08-25T23:43:59.581Z",
     "original_repository": "Nitnelav/awesome-acoustic",
     "original_repository_id": 850246299,
     "original_repository_sha": "25be1e57e273341147d8b922e22091f56d1db182",
