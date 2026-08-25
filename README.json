@@ -126,7 +126,7 @@
             "last_commit": "2024-08-14T14:13:45Z",
             "owner": "PyTTaMaster",
             "repo": "PyTTa",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 102587,
             "language": "Python",
-            "last_commit": "2026-08-18T04:11:52Z",
+            "last_commit": "2026-08-25T04:11:41Z",
             "owner": "tlecomte",
             "repo": "friture",
             "stars": 1112
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 128214585,
             "language": "C++",
-            "last_commit": "2026-08-24T22:06:05Z",
+            "last_commit": "2026-08-25T06:03:02Z",
             "owner": "FEniCS",
             "repo": "dolfinx",
             "stars": 1186
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-24T14:50:15Z",
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1679
+            "stars": 1678
           }
         },
         {
@@ -903,7 +903,7 @@
             "last_commit": "2026-08-22T13:06:58Z",
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8572
+            "stars": 8573
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22194
+            "stars": 22193
           }
         }
       ],
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:41:26.715Z",
+    "last_updated": "2026-08-25T06:28:43.034Z",
     "original_repository": "Nitnelav/awesome-acoustic",
     "original_repository_id": 850246299,
     "original_repository_sha": "25be1e57e273341147d8b922e22091f56d1db182",
