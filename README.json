@@ -16,7 +16,8 @@
             "owner": "soundata",
             "repo": "soundata",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "DCASE-REPO",
             "repo": "dcase_datalist",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-21T20:28:49Z",
             "owner": "Graphi07",
             "repo": "room-impulse-responses",
-            "stars": 603
-          }
+            "stars": 606
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "DBD-research-group",
             "repo": "BirdSet",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Databases"
@@ -81,8 +85,9 @@
             "last_commit": "2026-02-12T07:32:02Z",
             "owner": "Universite-Gustave-Eiffel",
             "repo": "acoustic-toolbox",
-            "stars": 28
-          }
+            "stars": 29
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "Eomys",
             "repo": "MoSQITo",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-08-27T06:07:14Z",
             "owner": "pyfar",
             "repo": "pyfar",
-            "stars": 135
-          }
+            "stars": 136
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "PyTTaMaster",
             "repo": "PyTTa",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "tlecomte",
             "repo": "friture",
             "stars": 1112
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "ucl-bug",
             "repo": "k-wave",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "waltsims",
             "repo": "k-wave-python",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Any2HRTF",
             "repo": "Mesh2HRTF",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "ggrecow",
             "repo": "SQAT",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "General Tools"
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 275682981,
             "language": "Python",
-            "last_commit": "2026-08-27T11:12:39Z",
+            "last_commit": "2026-08-28T06:30:45Z",
             "owner": "jmrplens",
             "repo": "phonometry",
-            "stars": 107
-          }
+            "stars": 108
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -234,11 +248,12 @@
             "archived": false,
             "id": 29729101,
             "language": "Python",
-            "last_commit": "2026-08-25T16:22:08Z",
+            "last_commit": "2026-08-27T16:17:09Z",
             "owner": "acoular",
             "repo": "acoular",
             "stars": 650
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "Universite-Gustave-Eiffel",
             "repo": "CleanTiPy",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "fgnt",
             "repo": "paderwasn",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "PyDMD",
             "repo": "PyDMD",
             "stars": 1251
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Signal Processing"
@@ -303,8 +321,9 @@
             "last_commit": "2026-07-17T01:55:51Z",
             "owner": "LCAV",
             "repo": "pyroomacoustics",
-            "stars": 1928
-          }
+            "stars": 1930
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "audiolabs",
             "repo": "DEISM",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "Universite-Gustave-Eiffel",
             "repo": "I-Simpa",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -348,8 +369,9 @@
             "last_commit": "2025-10-16T15:26:09Z",
             "owner": "Building-acoustics-TU-Eindhoven",
             "repo": "edg-acoustics",
-            "stars": 23
-          }
+            "stars": 24
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "choras-org",
             "repo": "CHORAS",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "Building-acoustics-TU-Eindhoven",
             "repo": "acousticDE",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "Building-acoustics-TU-Eindhoven",
             "repo": "EAVR-v2",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "AppliedAcousticsChalmers",
             "repo": "auralization-toolbox",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -420,11 +446,12 @@
             "archived": false,
             "id": 294441447,
             "language": "Python",
-            "last_commit": "2026-08-27T06:50:51Z",
+            "last_commit": "2026-08-27T19:09:17Z",
             "owner": "pyfar",
             "repo": "pyrato",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "SeicheAcoustics",
             "repo": "Seiche",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "yongyizang",
             "repo": "GSound-SIR",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "Burhanuddin98",
             "repo": "PPFFDTD",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "IoSR-Surrey",
             "repo": "MoD-ART",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -495,11 +526,12 @@
             "archived": false,
             "id": 1021931493,
             "language": "C++",
-            "last_commit": "2026-08-26T17:00:50Z",
+            "last_commit": "2026-08-28T06:49:21Z",
             "owner": "misuka-renderer",
             "repo": "misuka",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "dtu-act",
             "repo": "deeponet-acoustic-wave-prop",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Room Acoustics"
@@ -535,7 +568,8 @@
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseModelling",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseCapture",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "Universite-Gustave-Eiffel",
             "repo": "Rail4Earth",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -576,11 +612,12 @@
             "archived": false,
             "id": 803891844,
             "language": "Python",
-            "last_commit": "2026-08-25T15:42:00Z",
+            "last_commit": "2026-08-27T12:58:08Z",
             "owner": "sparrow-acoustics",
             "repo": "sparrowpy",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Environment"
@@ -601,7 +638,8 @@
             "owner": "rivm-syso",
             "repo": "OURS",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -612,11 +650,12 @@
             "archived": false,
             "id": 128214585,
             "language": "C++",
-            "last_commit": "2026-08-27T11:14:31Z",
+            "last_commit": "2026-08-28T06:54:26Z",
             "owner": "FEniCS",
             "repo": "dolfinx",
             "stars": 1187
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "dagghe",
             "repo": "pyOMA2",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -645,8 +685,9 @@
             "last_commit": "2026-08-24T08:15:02Z",
             "owner": "bempp",
             "repo": "bempp-cl",
-            "stars": 221
-          }
+            "stars": 220
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -657,11 +698,12 @@
             "archived": false,
             "id": 662679851,
             "language": "Python",
-            "last_commit": "2026-08-26T21:57:46Z",
+            "last_commit": "2026-08-28T02:29:42Z",
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "minipief",
             "repo": "pyva",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -690,8 +733,9 @@
             "last_commit": "2026-08-11T10:15:43Z",
             "owner": "optimuslib",
             "repo": "optimus",
-            "stars": 34
-          }
+            "stars": 35
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "FEM, Materials, Vibrations"
@@ -712,7 +756,8 @@
             "owner": "MitchellAcoustics",
             "repo": "Soundscapy",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -727,7 +772,8 @@
             "owner": "scikit-maad",
             "repo": "scikit-maad",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -742,7 +788,8 @@
             "owner": "mlotinga",
             "repo": "sottek-hearing-model",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Soundscape"
@@ -759,11 +806,12 @@
             "archived": false,
             "id": 409216041,
             "language": "Python",
-            "last_commit": "2026-08-27T10:21:05Z",
+            "last_commit": "2026-08-27T18:05:52Z",
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1681
-          }
+            "stars": 1683
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -778,7 +826,8 @@
             "owner": "Nachtzuster",
             "repo": "BirdNET-Pi",
             "stars": 1094
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -793,7 +842,8 @@
             "owner": "PAMGuard",
             "repo": "PAMGuard",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -808,7 +858,8 @@
             "owner": "OpenAcousticDevices",
             "repo": "AudioMoth-Project",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -823,7 +874,8 @@
             "owner": "vocalpy",
             "repo": "vak",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -838,7 +890,8 @@
             "owner": "maRce10",
             "repo": "warbleR",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -853,7 +906,8 @@
             "owner": "acoupi",
             "repo": "acoupi",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -868,7 +922,8 @@
             "owner": "vocalpy",
             "repo": "crowsetta",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -883,7 +938,8 @@
             "owner": "kitzeslab",
             "repo": "opensoundscape",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Bioacoustics"
@@ -903,8 +959,9 @@
             "last_commit": "2026-08-22T13:06:58Z",
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8576
-          }
+            "stars": 8578
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -918,8 +975,9 @@
             "last_commit": "2025-08-04T16:44:35Z",
             "owner": "tyiannak",
             "repo": "pyAudioAnalysis",
-            "stars": 6255
-          }
+            "stars": 6256
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -933,8 +991,9 @@
             "last_commit": "2026-03-20T09:38:58Z",
             "owner": "CPJKU",
             "repo": "madmom",
-            "stars": 1699
-          }
+            "stars": 1702
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -948,8 +1007,9 @@
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3351
-          }
+            "stars": 3352
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Music"
@@ -970,7 +1030,8 @@
             "owner": "gisogrimm",
             "repo": "tascar",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1046,8 @@
             "owner": "HoerTech-gGmbH",
             "repo": "openMHA",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1062,8 @@
             "owner": "HoerTech-gGmbH",
             "repo": "Cape4all",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Health"
@@ -1021,7 +1084,8 @@
             "owner": "maprieto",
             "repo": "SoftwareProfesionalAcustica",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1100,8 @@
             "owner": "RAMshades",
             "repo": "AcousticsML",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1116,8 @@
             "owner": "acoular",
             "repo": "structure-borne-sound-lecture",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Education"
@@ -1072,7 +1138,8 @@
             "owner": "1oly",
             "repo": "AeroAcoustics.jl",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1087,7 +1154,8 @@
             "owner": "Universite-Gustave-Eiffel",
             "repo": "WAPE",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "AeroAcoustics"
@@ -1108,7 +1176,8 @@
             "owner": "qiuqiangkong",
             "repo": "audioset_tagging_cnn",
             "stars": 1772
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1192,8 @@
             "owner": "antonyharfield",
             "repo": "tflite-models-audioset-yamnet",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1208,8 @@
             "owner": "microsoft",
             "repo": "CLAP",
             "stars": 677
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1224,8 @@
             "owner": "modantailleur",
             "repo": "paperSoundscapeSourceClassification",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1167,8 +1239,9 @@
             "last_commit": "2026-08-26T08:16:01Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22194
-          }
+            "stars": 22196
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "AI, Machine Learning"
@@ -1189,7 +1262,8 @@
             "owner": "rabeaifeanyi",
             "repo": "acoustic-camera",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1278,8 @@
             "owner": "Iari-Lab",
             "repo": "fpga_acoustic",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Hardware"
@@ -1221,11 +1296,12 @@
             "archived": false,
             "id": 5731348,
             "language": "Python",
-            "last_commit": "2026-08-27T11:15:04Z",
+            "last_commit": "2026-08-27T13:58:45Z",
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1330
-          }
+            "stars": 1331
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         },
         {
           "node_type": "item",
@@ -1240,14 +1316,15 @@
             "owner": "pyrocko",
             "repo": "pyrocko",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T06:57:45.729Z"
         }
       ],
       "title": "Seismology"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:59.736Z",
+    "last_updated": "2026-08-28T06:57:45.729Z",
     "original_repository_info": {
       "archived": false,
       "id": 850246299,
