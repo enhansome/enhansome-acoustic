@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for downloading, loading & working with sound datasets",
+            "homepage": "https://soundata.readthedocs.io/en/stable",
             "id": 343599660,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-14T14:29:50Z",
+            "open_issues": 32,
             "owner": "soundata",
             "repo": "soundata",
-            "stars": 357
+            "stars": 357,
+            "topics": [
+              "audio",
+              "bioacoustics",
+              "dataset",
+              "environmental-sound",
+              "python",
+              "urban-sound"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -26,12 +38,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of DCASE related datasets",
+            "homepage": "https://dcase-repo.github.io/dcase_datalist/",
             "id": 312566969,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-06-12T11:05:14Z",
+            "open_issues": 0,
             "owner": "DCASE-REPO",
             "repo": "dcase_datalist",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "dcase"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -42,12 +61,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of publicly available room impulse response datasets and scripts to download them. ",
+            "homepage": null,
             "id": 349542491,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-21T20:28:49Z",
+            "open_issues": 3,
             "owner": "Graphi07",
             "repo": "room-impulse-responses",
-            "stars": 606
+            "stars": 606,
+            "topics": [
+              "acoustics",
+              "room-impulse-response",
+              "speech"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -58,12 +86,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A benchmark dataset collection for bird sound classification",
+            "homepage": "https://huggingface.co/datasets/DBD-research-group/BirdSet",
             "id": 681067762,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-28T12:27:58Z",
+            "open_issues": 18,
             "owner": "DBD-research-group",
             "repo": "BirdSet",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "avian",
+              "benchmark",
+              "bioacoustics",
+              "deeplearning"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -80,12 +118,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for acousticians.",
+            "homepage": "https://acoustic-toolbox.readthedocs.io/",
             "id": 754012018,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-12T07:32:02Z",
+            "open_issues": 10,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "acoustic-toolbox",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "acoustic",
+              "audio",
+              "audio-analysis",
+              "python",
+              "sound"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -96,12 +145,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MoSQITo is a unified and modular development framework of key sound quality metrics favoring reproducible science and efficient shared scripting among engineers, teachers and researchers community.",
+            "homepage": null,
             "id": 249368386,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-10T07:15:52Z",
+            "open_issues": 25,
             "owner": "Eomys",
             "repo": "MoSQITo",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "acoustic",
+              "audio",
+              "audio-analysis",
+              "python",
+              "signal-processing",
+              "sound-quality",
+              "sq-metrics"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -112,12 +174,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python package for acoustics research",
+            "homepage": "https://pyfar.org",
             "id": 307803156,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T06:07:14Z",
+            "open_issues": 82,
             "owner": "pyfar",
             "repo": "pyfar",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "audio-in-out",
+              "digital-signal-processing",
+              "plotting"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -128,12 +199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python in Technical Acoustics and Vibration",
+            "homepage": null,
             "id": 153841852,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-14T14:13:45Z",
+            "open_issues": 10,
             "owner": "PyTTaMaster",
             "repo": "PyTTa",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -144,12 +220,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time audio visualizations (spectrum, spectrogram, etc.)",
+            "homepage": "http://friture.org",
             "id": 102587,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T04:11:41Z",
+            "open_issues": 94,
             "owner": "tlecomte",
             "repo": "friture",
-            "stars": 1112
+            "stars": 1113,
+            "topics": [
+              "audio",
+              "audio-analysis",
+              "python",
+              "spectrogram",
+              "spectrum",
+              "spectrum-analyzer"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -160,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A MATLAB toolbox for the time-domain simulation of acoustic wave fields",
+            "homepage": null,
             "id": 563290722,
             "language": "MATLAB",
+            "license": "LGPL-3.0",
             "last_commit": "2026-05-05T09:49:13Z",
+            "open_issues": 12,
             "owner": "ucl-bug",
             "repo": "k-wave",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -176,12 +269,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python interface to k-Wave GPU accelerated binaries",
+            "homepage": "https://k-wave-python.readthedocs.io/en/latest/",
             "id": 477094400,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-20T14:51:17Z",
+            "open_issues": 53,
             "owner": "waltsims",
             "repo": "k-wave-python",
-            "stars": 222
+            "stars": 223,
+            "topics": [
+              "acoustics",
+              "gpu",
+              "kwave",
+              "neuroscience",
+              "python",
+              "simulation",
+              "ultrasound",
+              "wave-equation"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -192,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open software for the numerical calculation of head-related transfer functions",
+            "homepage": null,
             "id": 481234519,
             "language": "C++",
+            "license": "EUPL-1.2",
             "last_commit": "2026-07-14T11:50:28Z",
+            "open_issues": 15,
             "owner": "Any2HRTF",
             "repo": "Mesh2HRTF",
-            "stars": 184
+            "stars": 184,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -208,12 +320,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQAT is an open-source repository of MATLAB codes implementing key metrics for sound quality analysis.",
+            "homepage": null,
             "id": 627001780,
             "language": "AGS Script",
-            "last_commit": "2026-08-26T14:14:42Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T14:28:35Z",
+            "open_issues": 3,
             "owner": "ggrecow",
             "repo": "SQAT",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "acoustics",
+              "matlab",
+              "open-source",
+              "psychoacoustics",
+              "signal-processing",
+              "sound-quality"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -230,12 +354,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standards-conformant acoustics library for Python: measurement and metrology, building, environmental and room acoustics, psychoacoustics, electroacoustics, vibration, underwater and aircraft/rotorcraft noise. Every method is implemented from the standard and validated against reference data, with teaching-style docs (formerly PyOctaveBand).",
+            "homepage": "https://jmrp.io/docs/phonometry",
             "id": 275682981,
             "language": "Python",
-            "last_commit": "2026-08-28T06:30:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:39:42Z",
+            "open_issues": 2,
             "owner": "jmrplens",
             "repo": "phonometry",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "acoustics",
+              "aircraft-noise",
+              "building-acoustics",
+              "dsp",
+              "environmental-noise",
+              "filter-bank",
+              "frequency-analysis",
+              "iec-61260",
+              "iec-61672",
+              "metrology",
+              "noise-measurement",
+              "octave",
+              "psychoacoustics",
+              "python3",
+              "room-acoustics",
+              "signal-processing",
+              "sound-level-meter",
+              "standards",
+              "underwater-acoustics",
+              "vibration"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -246,12 +396,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Acoustic testing and source mapping software",
+            "homepage": "https://acoular.org/acoular",
             "id": 29729101,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T16:17:09Z",
+            "open_issues": 51,
             "owner": "acoular",
             "repo": "acoular",
-            "stars": 650
+            "stars": 650,
+            "topics": [
+              "acoustic-imaging",
+              "acoustic-testing",
+              "acoustics",
+              "beamforming",
+              "microphone-array",
+              "microphone-array-processing",
+              "signal-processing"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -262,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source implementation of CLEAN-T acoustic imaging technique",
+            "homepage": null,
             "id": 913358085,
             "language": "Python",
+            "license": "EUPL-1.2",
             "last_commit": "2025-09-09T15:15:46Z",
+            "open_issues": 0,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "CleanTiPy",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -278,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paderwasn is a collection of methods for acoustic signal processing in wireless acoustic sensor networks (WASNs).",
+            "homepage": null,
             "id": 321294631,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-08T10:15:18Z",
+            "open_issues": 0,
             "owner": "fgnt",
             "repo": "paderwasn",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -294,12 +467,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Dynamic Mode Decomposition",
+            "homepage": "https://pydmd.github.io/PyDMD/",
             "id": 94094268,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-19T16:34:30Z",
+            "open_issues": 47,
             "owner": "PyDMD",
             "repo": "PyDMD",
-            "stars": 1251
+            "stars": 1252,
+            "topics": [
+              "data-driven",
+              "dmd",
+              "dynamic-mode-decomposition",
+              "hodmd",
+              "model-order-reduction",
+              "mrdmd",
+              "numfocus",
+              "python",
+              "scientific-machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -316,12 +504,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios.",
+            "homepage": "https://pyroomacoustics.readthedocs.io",
             "id": 48544147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-17T01:55:51Z",
+            "open_issues": 22,
             "owner": "LCAV",
             "repo": "pyroomacoustics",
-            "stars": 1930
+            "stars": 1930,
+            "topics": [
+              "acoustics",
+              "adaptive-filtering",
+              "audio",
+              "beamforming",
+              "doa",
+              "image-source-model",
+              "room-impulse-response",
+              "stft"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -332,12 +534,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Diffraction Enhanced Image Source Method (Python)",
+            "homepage": "https://deism.readthedocs.io",
             "id": 666336301,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T12:08:29Z",
+            "open_issues": 1,
             "owner": "audiolabs",
             "repo": "DEISM",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "audio-devices",
+              "comsol-multiphysics",
+              "directivity",
+              "finite-element-methods",
+              "image-source-model",
+              "room-acoustics-simulation",
+              "room-impulse-responses",
+              "room-transfer-functions",
+              "smart-speakers",
+              "transducers"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -348,12 +566,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Source software for 3D sound propagation modelling",
+            "homepage": "https://i-simpa.univ-gustave-eiffel.fr/",
             "id": 17936552,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-18T07:44:02Z",
+            "open_issues": 122,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "I-Simpa",
-            "stars": 297
+            "stars": 297,
+            "topics": [
+              "acoustic",
+              "gui",
+              "modelisation",
+              "numerical-codes",
+              "room-acoustics",
+              "sound"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -364,12 +594,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wave-based room acoustic modeling package with the DG method",
+            "homepage": "https://dg-roomacoustics.readthedocs.io/",
             "id": 566830543,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-16T15:26:09Z",
+            "open_issues": 10,
             "owner": "Building-acoustics-TU-Eindhoven",
             "repo": "edg-acoustics",
-            "stars": 24
+            "stars": 25,
+            "topics": [
+              "discontinuous-galerkin-method",
+              "finite-element-methods",
+              "high-order",
+              "impulse-response",
+              "room-acoustic-modeling",
+              "wave-based-room-acoustics"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -380,12 +622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Community Hub for Open-source Room Acoustics Software (CHORAS)",
+            "homepage": "https://choras.readthedocs.io/en/latest/",
             "id": 926016117,
             "language": "Batchfile",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T15:44:39Z",
+            "open_issues": 37,
             "owner": "choras-org",
             "repo": "CHORAS",
-            "stars": 41
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -396,12 +643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a diffusion equation model for room acoustics predictions, developed in Python.",
+            "homepage": "https://building-acoustics-tu-eindhoven.github.io/acousticDE/",
             "id": 607243374,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-10T10:20:54Z",
+            "open_issues": 1,
             "owner": "Building-acoustics-TU-Eindhoven",
             "repo": "acousticDE",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -412,12 +664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 615376739,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-04-30T10:05:15Z",
+            "open_issues": 3,
             "owner": "Building-acoustics-TU-Eindhoven",
             "repo": "EAVR-v2",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -428,12 +685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Chalmers Auralization Toolbox",
+            "homepage": null,
             "id": 683083423,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2026-02-12T10:59:04Z",
+            "open_issues": 0,
             "owner": "AppliedAcousticsChalmers",
             "repo": "auralization-toolbox",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -444,12 +706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Room Acoustics Tools",
+            "homepage": "https://pyfar.org/",
             "id": 294441447,
             "language": "Python",
-            "last_commit": "2026-08-27T19:09:17Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:26:43Z",
+            "open_issues": 26,
             "owner": "pyfar",
             "repo": "pyrato",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -460,12 +727,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source application for 3D acoustic simulation",
+            "homepage": "https://seicheacoustics.github.io",
             "id": 932423178,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-23T00:06:55Z",
+            "open_issues": 7,
             "owner": "SeicheAcoustics",
             "repo": "Seiche",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "3d-visualization",
+              "acoustics",
+              "sound",
+              "visualization-tool"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -476,12 +753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python Room Spatial Impulse Response Ray-Tracing Toolkit",
+            "homepage": null,
             "id": 930131415,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-04T05:38:45Z",
+            "open_issues": 0,
             "owner": "yongyizang",
             "repo": "GSound-SIR",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -492,12 +774,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python wrapper for PFFDTD with a non-intrusive reduced order model for CHORAS",
+            "homepage": null,
             "id": 1212533671,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-11T11:29:41Z",
+            "open_issues": 0,
             "owner": "Burhanuddin98",
             "repo": "PPFFDTD",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "acoustics",
+              "cupy",
+              "fdtd",
+              "gaussian-process",
+              "gpu",
+              "impulse-response",
+              "python",
+              "reduced-order-model",
+              "room-acoustics",
+              "wave-simulation"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -508,12 +806,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build acoustic radiance transfer (ART) models, and analyze them using modal decomposition of acoustic radiance transfer (MoD-ART).",
+            "homepage": null,
             "id": 1082711454,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-27T18:35:05Z",
+            "open_issues": 0,
             "owner": "IoSR-Surrey",
             "repo": "MoD-ART",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -524,12 +827,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "misuka: A differentiable room acoustic renderer",
+            "homepage": "https://www.tu.berlin/en/ak/research/projects/differentiable-acoustic-path-tracing",
             "id": 1021931493,
             "language": "C++",
-            "last_commit": "2026-08-28T06:49:21Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T16:47:25Z",
+            "open_issues": 11,
             "owner": "misuka-renderer",
             "repo": "misuka",
-            "stars": 45
+            "stars": 46,
+            "topics": [
+              "acoustic",
+              "differentiable-rendering",
+              "path-tracing",
+              "raytracing"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -540,12 +853,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for training and inferring acoustic wave propagation in 3D",
+            "homepage": null,
             "id": 670060575,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-12T18:23:03Z",
+            "open_issues": 0,
             "owner": "dtu-act",
             "repo": "deeponet-acoustic-wave-prop",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "deeponet",
+              "domain-decomposition",
+              "operator-learning",
+              "transfer-learning",
+              "virtual-acoustics"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -562,12 +886,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source model for calculating noise maps. ",
+            "homepage": "https://noisemodelling.readthedocs.io/",
             "id": 5002457,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-14T15:04:52Z",
+            "open_issues": 83,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseModelling",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "acoustics",
+              "cnossos-eu",
+              "gis",
+              "java",
+              "modelling",
+              "noise",
+              "noise-modelling",
+              "noise-propagation",
+              "pathfinder",
+              "pathfinding",
+              "propagation",
+              "research",
+              "sound-propagation"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -578,12 +921,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android App dedicated to the measurement of environmental noise.",
+            "homepage": "http://noise-planet.org/fr/noisecapture.html",
             "id": 32870652,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-22T09:53:00Z",
+            "open_issues": 73,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseCapture",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "android",
+              "collaborative-science",
+              "measurements",
+              "noise-maps"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -594,12 +947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OnoSensor (Open Noise Sensor) empowering communities through complete noise monitoring — From acquisition to distributed networked storage and visualization.",
+            "homepage": null,
             "id": 764125567,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-06T12:31:42Z",
+            "open_issues": 12,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "Rail4Earth",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -610,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sound Propagation with Acoustic Radiosity for Realistic Outdoor Worlds",
+            "homepage": null,
             "id": 803891844,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T12:58:08Z",
+            "open_issues": 44,
             "owner": "sparrow-acoustics",
             "repo": "sparrowpy",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -632,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dutch calculation method for railway vibrations",
+            "homepage": null,
             "id": 263941943,
             "language": "Pascal",
+            "license": "EUPL-1.2",
             "last_commit": "2026-08-24T14:55:45Z",
+            "open_issues": 7,
             "owner": "rivm-syso",
             "repo": "OURS",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -648,12 +1016,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation FEniCS problem solving environment for solving finite element problems",
+            "homepage": "https://fenicsproject.org",
             "id": 128214585,
             "language": "C++",
-            "last_commit": "2026-08-28T06:54:26Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-28T22:33:41Z",
+            "open_issues": 129,
             "owner": "FEniCS",
             "repo": "dolfinx",
-            "stars": 1187
+            "stars": 1187,
+            "topics": [
+              "fenicsx",
+              "finite-element-methods",
+              "parallel-computing",
+              "partial-differential-equations"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -664,12 +1042,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python module for conducting operational modal analysis",
+            "homepage": null,
             "id": 680238610,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T11:34:43Z",
+            "open_issues": 6,
             "owner": "dagghe",
             "repo": "pyOMA2",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "operational-modal-analysis",
+              "structural-dynamics"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -680,12 +1066,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast Python based just-in-time compiling boundary element library",
+            "homepage": "http://www.bempp.com",
             "id": 181741757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:15:02Z",
+            "open_issues": 32,
             "owner": "bempp",
             "repo": "bempp-cl",
-            "stars": 220
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -696,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vibroacoustic Analysis using the Finite Element Method",
+            "homepage": null,
             "id": 662679851,
             "language": "Python",
-            "last_commit": "2026-08-28T02:29:42Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T21:43:02Z",
+            "open_issues": 50,
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -712,12 +1108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python toolbox for vibroacoustics",
+            "homepage": null,
             "id": 466706687,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T21:36:49Z",
+            "open_issues": 0,
             "owner": "minipief",
             "repo": "pyva",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -728,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository of OptimUS: a Python library for solving 3D acoustic wave propagation.",
+            "homepage": null,
             "id": 472118984,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-11T10:15:43Z",
+            "open_issues": 1,
             "owner": "optimuslib",
             "repo": "optimus",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -750,12 +1156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python library for soundscape assessments",
+            "homepage": "https://drandrewmitchell.com/Soundscapy/",
             "id": 331722386,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-12T15:55:42Z",
+            "open_issues": 23,
             "owner": "MitchellAcoustics",
             "repo": "Soundscapy",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -766,12 +1177,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source and modular toolbox for quantitative soundscape analysis in Python",
+            "homepage": "https://scikit-maad.github.io/",
             "id": 148142520,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-21T14:22:19Z",
+            "open_issues": 10,
             "owner": "scikit-maad",
             "repo": "scikit-maad",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "acoustic-indices",
+              "bioacoustics",
+              "ecoacoustics",
+              "pattern-recognition",
+              "signal-processing",
+              "sound-pressure-level"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -782,12 +1205,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of the Sottek Hearing Model psychoacoustic sound quality metrics defined in ECMA-418-2.",
+            "homepage": "https://pypi.org/project/sottek-hearing-model",
             "id": 1049711302,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-01T21:08:04Z",
+            "open_issues": 4,
             "owner": "mlotinga",
             "repo": "sottek-hearing-model",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "psychoacoustics",
+              "signal-processing",
+              "signal-processing-algorithms",
+              "sound-quality"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -804,12 +1237,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BirdNET analyzer for scientific audio data processing.",
+            "homepage": "https://birdnet-team.github.io/BirdNET-Analyzer/",
             "id": 409216041,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:05:52Z",
+            "open_issues": 80,
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1683
+            "stars": 1683,
+            "topics": [
+              "acoustic-monitoring",
+              "bioacoustics",
+              "birds",
+              "birdsong",
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -820,12 +1264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.",
+            "homepage": "https://birdnetpi.com",
             "id": 484143826,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-28T09:58:01Z",
+            "open_issues": 60,
             "owner": "Nachtzuster",
             "repo": "BirdNET-Pi",
-            "stars": 1094
+            "stars": 1094,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -836,12 +1285,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detection, Classification, and Localisation of marine mammal and other bioacoustic signals",
+            "homepage": "http://www.pamguard.org/",
             "id": 445486690,
             "language": "Java",
-            "last_commit": "2026-08-23T14:02:13Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T13:30:10Z",
+            "open_issues": 30,
             "owner": "PAMGuard",
             "repo": "PAMGuard",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "bats",
+              "classification",
+              "detection",
+              "dolphins",
+              "localisation",
+              "whales"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -852,12 +1313,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal project on which all AudioMoth firmware can be built.",
+            "homepage": null,
             "id": 98981642,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-05-21T15:53:13Z",
+            "open_issues": 0,
             "owner": "OpenAcousticDevices",
             "repo": "AudioMoth-Project",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "audiomoth"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -868,12 +1336,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A neural network framework for researchers studying acoustic communication",
+            "homepage": "https://vak.readthedocs.io",
             "id": 173566541,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-13T23:26:12Z",
+            "open_issues": 136,
             "owner": "vocalpy",
             "repo": "vak",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "animal-communication",
+              "animal-vocalizations",
+              "bioacoustic-analysis",
+              "bioacoustics",
+              "birdsong",
+              "python",
+              "python3",
+              "pytorch",
+              "spectrograms",
+              "speech-processing",
+              "torch",
+              "torchvision",
+              "vocalizations"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -884,12 +1371,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "streamline acoustic analysis in R",
+            "homepage": "https://marce10.github.io/warbleR/",
             "id": 38833174,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-24T14:31:34Z",
+            "open_issues": 23,
             "owner": "maRce10",
             "repo": "warbleR",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "animal-acoustic-signals",
+              "audio-processing",
+              "bioacoustics",
+              "spectrogram",
+              "streamline-analysis"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -900,12 +1398,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python toolkit to implement bioacoustics classifier on embedded systems.",
+            "homepage": "https://acoupi.github.io/acoupi/",
             "id": 610365388,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T16:48:06Z",
+            "open_issues": 16,
             "owner": "acoupi",
             "repo": "acoupi",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "acoustic-monitoring",
+              "bioacoustics",
+              "edge-computing",
+              "python-toolkit",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -916,12 +1425,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to work with any format for annotating animal sounds",
+            "homepage": "https://crowsetta.readthedocs.io/en/latest/",
             "id": 159904494,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-16T00:08:55Z",
+            "open_issues": 43,
             "owner": "vocalpy",
             "repo": "crowsetta",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "animal-communication",
+              "animal-vocalizations",
+              "annotation",
+              "annotation-format",
+              "bioacoustic-analysis",
+              "bioacoustics",
+              "birdsong",
+              "csv",
+              "dataset",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -932,12 +1458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source, scalable software for the analysis of bioacoustic recordings",
+            "homepage": "http://opensoundscape.org",
             "id": 149182373,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T23:14:27Z",
+            "open_issues": 92,
             "owner": "kitzeslab",
             "repo": "opensoundscape",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -954,12 +1485,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for audio and music analysis",
+            "homepage": "https://librosa.org/",
             "id": 6309729,
             "language": "Python",
+            "license": "ISC",
             "last_commit": "2026-08-22T13:06:58Z",
+            "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8578
+            "stars": 8580,
+            "topics": [
+              "audio",
+              "dsp",
+              "librosa",
+              "music",
+              "python",
+              "scipy"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -970,12 +1513,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications",
+            "homepage": null,
             "id": 23389271,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-04T16:44:35Z",
+            "open_issues": 205,
             "owner": "tyiannak",
             "repo": "pyAudioAnalysis",
-            "stars": 6256
+            "stars": 6256,
+            "topics": [
+              "audio",
+              "audio-analysis-tasks",
+              "audio-data",
+              "machine-learning",
+              "pyaudioanalysis",
+              "python",
+              "signal-processing"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -986,12 +1542,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python audio and music signal processing library",
+            "homepage": "https://madmom.readthedocs.io",
             "id": 42099318,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-20T09:38:58Z",
+            "open_issues": 81,
             "owner": "CPJKU",
             "repo": "madmom",
-            "stars": 1702
+            "stars": 1703,
+            "topics": [
+              "audio-analysis",
+              "cython",
+              "machine-learning",
+              "music-information-retrieval",
+              "numpy",
+              "python",
+              "scipy",
+              "signal-processing"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1002,12 +1572,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for audio and music analysis, feature extraction.",
+            "homepage": "https://audioflux.top",
             "id": 589514195,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-03-06T04:12:17Z",
+            "open_issues": 16,
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3352
+            "stars": 3353,
+            "topics": [
+              "audio",
+              "audio-analysis",
+              "audio-features",
+              "audio-processing",
+              "deep-learning",
+              "machine-learning",
+              "mfcc",
+              "mir",
+              "music",
+              "music-analysis",
+              "music-information-retrieval",
+              "pitch",
+              "python",
+              "signal-processing",
+              "spectral-analysis",
+              "spectrogram",
+              "time-frequency-analysis",
+              "wavelet-analysis",
+              "wavelet-transform"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -1024,12 +1619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "toolbox for acoustic scene creation and rendering",
+            "homepage": "http://www.tascar.org/",
             "id": 7482322,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-20T11:33:14Z",
+            "open_issues": 3,
             "owner": "gisogrimm",
             "repo": "tascar",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1040,12 +1640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open Master Hearing Aid (openMHA)",
+            "homepage": "http://www.openmha.org",
             "id": 80633203,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-05T08:36:56Z",
+            "open_issues": 1,
             "owner": "HoerTech-gGmbH",
             "repo": "openMHA",
-            "stars": 331
+            "stars": 331,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1056,12 +1661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Hardware Multichannel Sound Interface for Hearing Aid Research on Beaglebone Black",
+            "homepage": null,
             "id": 125038938,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-03T13:39:00Z",
+            "open_issues": 0,
             "owner": "HoerTech-gGmbH",
             "repo": "Cape4all",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -1078,12 +1688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter notebooks from the course: Software in Acoustics, Master in Industrial Mathematics (M2i)",
+            "homepage": "https://m2i.es/en/",
             "id": 354663346,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-04-21T12:08:35Z",
+            "open_issues": 0,
             "owner": "maprieto",
             "repo": "SoftwareProfesionalAcustica",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1094,12 +1709,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial on using machine learning for acoustics. This tutorial covers a wide range of machine learning approaches for acoustic applications.",
+            "homepage": null,
             "id": 836469984,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-04-17T13:15:45Z",
+            "open_issues": 0,
             "owner": "RAMshades",
             "repo": "AcousticsML",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "acoustics",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1110,12 +1733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive jupyter lecture notes for structure-borne sound lecture at TU Berlin",
+            "homepage": null,
             "id": 213662631,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T13:41:21Z",
+            "open_issues": 3,
             "owner": "acoular",
             "repo": "structure-borne-sound-lecture",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -1132,12 +1760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Julia package for Aeroacoustics",
+            "homepage": null,
             "id": 167165058,
             "language": "Julia",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-01T11:20:26Z",
+            "open_issues": 6,
             "owner": "1oly",
             "repo": "AeroAcoustics.jl",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1148,12 +1781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 578555002,
             "language": "MATLAB",
+            "license": "EUPL-1.2",
             "last_commit": "2024-07-17T13:39:13Z",
+            "open_issues": 0,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "WAPE",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -1170,12 +1808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 190422132,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-25T10:16:02Z",
+            "open_issues": 62,
             "owner": "qiuqiangkong",
             "repo": "audioset_tagging_cnn",
-            "stars": 1772
+            "stars": 1773,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1186,12 +1829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TFLite-compatible fork of YAMNet from tensorflow/models",
+            "homepage": null,
             "id": 247469983,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-06-13T14:33:18Z",
+            "open_issues": 2,
             "owner": "antonyharfield",
             "repo": "tflite-models-audioset-yamnet",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1202,12 +1850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning audio concepts from natural language supervision",
+            "homepage": null,
             "id": 560994406,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-18T21:40:17Z",
+            "open_issues": 16,
             "owner": "microsoft",
             "repo": "CLAP",
-            "stars": 677
+            "stars": 677,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1218,12 +1871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 726012776,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-08-26T15:17:47Z",
+            "open_issues": 0,
             "owner": "modantailleur",
             "repo": "paperSoundscapeSourceClassification",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1234,12 +1892,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+            "homepage": "https://aka.ms/GeneralAI",
             "id": 198350484,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:16:01Z",
+            "open_issues": 684,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22196
+            "stars": 22196,
+            "topics": [
+              "beit",
+              "beit-3",
+              "bitnet",
+              "deepnet",
+              "document-ai",
+              "foundation-models",
+              "kosmos",
+              "kosmos-1",
+              "layoutlm",
+              "layoutxlm",
+              "llm",
+              "minilm",
+              "mllm",
+              "multimodal",
+              "nlp",
+              "pre-trained-model",
+              "textdiffuser",
+              "trocr",
+              "unilm",
+              "xlm-e"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -1256,12 +1940,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project uses Acoular to implement an acoustic camera for the miniDSP UMA-16 microphone array, with optional integration of a transformer model.",
+            "homepage": null,
             "id": 892072361,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-26T12:05:07Z",
+            "open_issues": 2,
             "owner": "rabeaifeanyi",
             "repo": "acoustic-camera",
-            "stars": 54
+            "stars": 56,
+            "topics": [
+              "acoular",
+              "beamforming",
+              "microphone-array",
+              "minidsp",
+              "sound-processing",
+              "transformer-models"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1272,12 +1968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 845072601,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-02-08T20:18:31Z",
+            "open_issues": 0,
             "owner": "Iari-Lab",
             "repo": "fpga_acoustic",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -1294,12 +1995,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ObsPy: A Python Toolbox for seismology/seismological observatories.",
+            "homepage": "https://www.obspy.org",
             "id": 5731348,
             "language": "Python",
-            "last_commit": "2026-08-27T13:58:45Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T11:09:14Z",
+            "open_issues": 300,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1331
+            "stars": 1331,
+            "topics": [
+              "data-center",
+              "earthquakes",
+              "hacktoberfest",
+              "lgplv3",
+              "observatories",
+              "python",
+              "science",
+              "seismology",
+              "signal-processing",
+              "waveforms",
+              "web-services"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         },
@@ -1310,12 +2028,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python.",
+            "homepage": "https://pyrocko.org",
             "id": 557212,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-04T13:05:36Z",
+            "open_issues": 46,
             "owner": "pyrocko",
             "repo": "pyrocko",
-            "stars": 248
+            "stars": 248,
+            "topics": [
+              "earthquake",
+              "geophysical-inversions",
+              "geophysics",
+              "python",
+              "seismology"
+            ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
         }
@@ -1324,15 +2053,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:45.729Z",
+    "last_updated": "2026-08-29T04:16:39.501Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome open-source acoustic packages and resources.",
+      "homepage": "https://nitnelav.github.io/awesome-acoustic/",
       "id": 850246299,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-24T12:05:35Z",
+      "open_issues": 5,
       "owner": "Nitnelav",
       "repo": "awesome-acoustic",
-      "stars": 136
+      "stars": 136,
+      "topics": [
+        "acoustic",
+        "acoustics",
+        "awesome",
+        "awesome-list",
+        "bioacoustics",
+        "noise-maps",
+        "open-source",
+        "room-acoustics",
+        "signal-processing",
+        "soundscape"
+      ]
     },
     "original_repository_sha": "25be1e57e273341147d8b922e22091f56d1db182",
     "enhanced_repository": "enhansome/enhansome-acoustic",
