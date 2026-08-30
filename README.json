@@ -359,11 +359,11 @@
             "id": 275682981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:39:42Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-29T22:54:59Z",
+            "open_issues": 3,
             "owner": "jmrplens",
             "repo": "phonometry",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "acoustics",
               "aircraft-noise",
@@ -836,7 +836,7 @@
             "open_issues": 11,
             "owner": "misuka-renderer",
             "repo": "misuka",
-            "stars": 46,
+            "stars": 52,
             "topics": [
               "acoustic",
               "differentiable-rendering",
@@ -1021,8 +1021,8 @@
             "id": 128214585,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-28T22:33:41Z",
-            "open_issues": 129,
+            "last_commit": "2026-08-29T17:08:31Z",
+            "open_issues": 130,
             "owner": "FEniCS",
             "repo": "dolfinx",
             "stars": 1187,
@@ -1092,7 +1092,7 @@
             "id": 662679851,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T21:43:02Z",
+            "last_commit": "2026-08-30T01:06:52Z",
             "open_issues": 50,
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
@@ -1270,10 +1270,10 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-02-28T09:58:01Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "Nachtzuster",
             "repo": "BirdNET-Pi",
-            "stars": 1094,
+            "stars": 1095,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -1494,7 +1494,7 @@
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8580,
+            "stars": 8581,
             "topics": [
               "audio",
               "dsp",
@@ -1522,7 +1522,7 @@
             "open_issues": 205,
             "owner": "tyiannak",
             "repo": "pyAudioAnalysis",
-            "stars": 6256,
+            "stars": 6258,
             "topics": [
               "audio",
               "audio-analysis-tasks",
@@ -2004,7 +2004,7 @@
             "open_issues": 300,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "data-center",
               "earthquakes",
@@ -2053,7 +2053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:17.825Z",
+    "last_updated": "2026-08-30T01:19:36.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome open-source acoustic packages and resources.",
@@ -2065,7 +2065,7 @@
       "open_issues": 5,
       "owner": "Nitnelav",
       "repo": "awesome-acoustic",
-      "stars": 136,
+      "stars": 137,
       "topics": [
         "acoustic",
         "acoustics",
