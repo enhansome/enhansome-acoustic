@@ -359,11 +359,11 @@
             "id": 275682981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:49:03Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-05T00:59:20Z",
+            "open_issues": 1,
             "owner": "jmrplens",
             "repo": "phonometry",
-            "stars": 111,
+            "stars": 112,
             "topics": [
               "acoustics",
               "aircraft-noise",
@@ -513,7 +513,7 @@
             "open_issues": 22,
             "owner": "LCAV",
             "repo": "pyroomacoustics",
-            "stars": 1930,
+            "stars": 1932,
             "topics": [
               "acoustics",
               "adaptive-filtering",
@@ -539,7 +539,7 @@
             "id": 666336301,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T11:21:10Z",
+            "last_commit": "2026-09-04T15:32:19Z",
             "open_issues": 1,
             "owner": "audiolabs",
             "repo": "DEISM",
@@ -736,7 +736,7 @@
             "open_issues": 7,
             "owner": "SeicheAcoustics",
             "repo": "Seiche",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "3d-visualization",
               "acoustics",
@@ -832,8 +832,8 @@
             "id": 1021931493,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T22:38:43Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-04T18:37:02Z",
+            "open_issues": 7,
             "owner": "misuka-renderer",
             "repo": "misuka",
             "stars": 55,
@@ -926,8 +926,8 @@
             "id": 32870652,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-22T09:53:00Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-04T09:30:13Z",
+            "open_issues": 72,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseCapture",
             "stars": 130,
@@ -1092,8 +1092,8 @@
             "id": 662679851,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T00:40:30Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-04T21:23:29Z",
+            "open_issues": 48,
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
             "stars": 19,
@@ -1273,7 +1273,7 @@
             "open_issues": 62,
             "owner": "Nachtzuster",
             "repo": "BirdNET-Pi",
-            "stars": 1098,
+            "stars": 1101,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -1491,10 +1491,10 @@
             "language": "Python",
             "license": "ISC",
             "last_commit": "2026-08-22T13:06:58Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8584,
+            "stars": 8586,
             "topics": [
               "audio",
               "dsp",
@@ -1551,7 +1551,7 @@
             "open_issues": 81,
             "owner": "CPJKU",
             "repo": "madmom",
-            "stars": 1706,
+            "stars": 1707,
             "topics": [
               "audio-analysis",
               "cython",
@@ -1581,7 +1581,7 @@
             "open_issues": 16,
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3356,
+            "stars": 3357,
             "topics": [
               "audio",
               "audio-analysis",
@@ -1817,7 +1817,7 @@
             "open_issues": 62,
             "owner": "qiuqiangkong",
             "repo": "audioset_tagging_cnn",
-            "stars": 1774,
+            "stars": 1775,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -2053,7 +2053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:04:46.611Z",
+    "last_updated": "2026-09-05T01:05:49.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome open-source acoustic packages and resources.",
