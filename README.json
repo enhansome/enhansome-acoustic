@@ -325,8 +325,8 @@
             "id": 627001780,
             "language": "AGS Script",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T15:31:36Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-06T19:24:48Z",
+            "open_issues": 5,
             "owner": "ggrecow",
             "repo": "SQAT",
             "stars": 100,
@@ -359,8 +359,8 @@
             "id": 275682981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T00:33:09Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-06T23:57:27Z",
+            "open_issues": 4,
             "owner": "jmrplens",
             "repo": "phonometry",
             "stars": 112,
@@ -405,7 +405,7 @@
             "open_issues": 51,
             "owner": "acoular",
             "repo": "acoular",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "acoustic-imaging",
               "acoustic-testing",
@@ -513,7 +513,7 @@
             "open_issues": 22,
             "owner": "LCAV",
             "repo": "pyroomacoustics",
-            "stars": 1933,
+            "stars": 1934,
             "topics": [
               "acoustics",
               "adaptive-filtering",
@@ -628,7 +628,7 @@
             "language": "Batchfile",
             "license": "GPL-3.0",
             "last_commit": "2026-09-03T17:10:49Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "choras-org",
             "repo": "CHORAS",
             "stars": 43,
@@ -836,7 +836,7 @@
             "open_issues": 7,
             "owner": "misuka-renderer",
             "repo": "misuka",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "acoustic",
               "differentiable-rendering",
@@ -1092,8 +1092,8 @@
             "id": 662679851,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T23:31:59Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-06T18:38:55Z",
+            "open_issues": 49,
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
             "stars": 19,
@@ -1117,7 +1117,7 @@
             "open_issues": 0,
             "owner": "minipief",
             "repo": "pyva",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -1246,7 +1246,7 @@
             "open_issues": 81,
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1689,
+            "stars": 1690,
             "topics": [
               "acoustic-monitoring",
               "bioacoustics",
@@ -2001,7 +2001,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T14:53:12Z",
-            "open_issues": 306,
+            "open_issues": 308,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1332,
@@ -2053,7 +2053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:05:18.653Z",
+    "last_updated": "2026-09-07T01:07:17.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome open-source acoustic packages and resources.",
@@ -2065,7 +2065,7 @@
       "open_issues": 5,
       "owner": "Nitnelav",
       "repo": "awesome-acoustic",
-      "stars": 136,
+      "stars": 137,
       "topics": [
         "acoustic",
         "acoustics",
