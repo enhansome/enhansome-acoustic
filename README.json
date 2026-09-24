@@ -70,7 +70,7 @@
             "open_issues": 3,
             "owner": "Graphi07",
             "repo": "room-impulse-responses",
-            "stars": 613,
+            "stars": 614,
             "topics": [
               "acoustics",
               "room-impulse-response",
@@ -154,7 +154,7 @@
             "open_issues": 25,
             "owner": "Eomys",
             "repo": "MoSQITo",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "acoustic",
               "audio",
@@ -179,8 +179,8 @@
             "id": 307803156,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T13:35:22Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-23T12:52:20Z",
+            "open_issues": 86,
             "owner": "pyfar",
             "repo": "pyfar",
             "stars": 137,
@@ -229,7 +229,7 @@
             "open_issues": 96,
             "owner": "tlecomte",
             "repo": "friture",
-            "stars": 1117,
+            "stars": 1119,
             "topics": [
               "audio",
               "audio-analysis",
@@ -365,8 +365,8 @@
             "id": 275682981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T01:19:35Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-23T22:05:43Z",
+            "open_issues": 0,
             "owner": "jmrplens",
             "repo": "phonometry",
             "stars": 118,
@@ -482,7 +482,7 @@
             "open_issues": 47,
             "owner": "PyDMD",
             "repo": "PyDMD",
-            "stars": 1259,
+            "stars": 1260,
             "topics": [
               "data-driven",
               "dmd",
@@ -655,7 +655,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-21T16:41:46Z",
-            "open_issues": 4,
+            "open_issues": 1,
             "owner": "Building-acoustics-TU-Eindhoven",
             "repo": "acousticDE",
             "stars": 11,
@@ -897,7 +897,7 @@
             "id": 5002457,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T15:12:29Z",
+            "last_commit": "2026-09-23T14:13:23Z",
             "open_issues": 83,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseModelling",
@@ -1027,8 +1027,8 @@
             "id": 128214585,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-22T21:23:59Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-23T22:15:32Z",
+            "open_issues": 127,
             "owner": "FEniCS",
             "repo": "dolfinx",
             "stars": 1203,
@@ -1098,7 +1098,7 @@
             "id": 662679851,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T20:06:55Z",
+            "last_commit": "2026-09-23T17:42:48Z",
             "open_issues": 39,
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
@@ -1123,7 +1123,7 @@
             "open_issues": 0,
             "owner": "minipief",
             "repo": "pyva",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -1252,7 +1252,7 @@
             "open_issues": 83,
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1714,
+            "stars": 1713,
             "topics": [
               "acoustic-monitoring",
               "bioacoustics",
@@ -1279,7 +1279,7 @@
             "open_issues": 62,
             "owner": "Nachtzuster",
             "repo": "BirdNET-Pi",
-            "stars": 1131,
+            "stars": 1132,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -1297,7 +1297,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T09:04:58Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "PAMGuard",
             "repo": "PAMGuard",
             "stars": 71,
@@ -1328,7 +1328,7 @@
             "open_issues": 0,
             "owner": "OpenAcousticDevices",
             "repo": "AudioMoth-Project",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "audiomoth"
             ]
@@ -1351,7 +1351,7 @@
             "open_issues": 136,
             "owner": "vocalpy",
             "repo": "vak",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "animal-communication",
               "animal-vocalizations",
@@ -1470,7 +1470,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-19T00:11:55Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "kitzeslab",
             "repo": "opensoundscape",
             "stars": 221,
@@ -1497,10 +1497,10 @@
             "language": "Python",
             "license": "ISC",
             "last_commit": "2026-09-21T17:47:07Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8622,
+            "stars": 8623,
             "topics": [
               "audio",
               "dsp",
@@ -1528,7 +1528,7 @@
             "open_issues": 205,
             "owner": "tyiannak",
             "repo": "pyAudioAnalysis",
-            "stars": 6263,
+            "stars": 6262,
             "topics": [
               "audio",
               "audio-analysis-tasks",
@@ -1557,7 +1557,7 @@
             "open_issues": 81,
             "owner": "CPJKU",
             "repo": "madmom",
-            "stars": 1713,
+            "stars": 1714,
             "topics": [
               "audio-analysis",
               "cython",
@@ -1907,7 +1907,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22227,
+            "stars": 22228,
             "topics": [
               "beit",
               "beit-3",
@@ -2039,7 +2039,7 @@
             "id": 557212,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T14:15:53Z",
+            "last_commit": "2026-09-23T12:33:37Z",
             "open_issues": 47,
             "owner": "pyrocko",
             "repo": "pyrocko",
@@ -2059,7 +2059,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:33:35.823Z",
+    "last_updated": "2026-09-24T01:29:36.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome open-source acoustic packages and resources.",
