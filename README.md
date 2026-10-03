@@ -210,7 +210,7 @@ Read the detailed scope of this list in [SCOPE.md](SCOPE.md).
 | [acousticTS](https://github.com/brandynlucca/acousticTS) ⭐ 12 \| 🐛 0 \| 🌐 R \| 📅 2026-10-02                          | Physics-based models and approximations estimating acoustic target strength (TS) of underwater targets                                                                      | R        |
 | [AcousticScattering.jl](https://github.com/brandynlucca/AcousticScattering.jl) ⭐ 1 \| 🐛 0 \| 🌐 Julia \| 📅 2026-10-02 | A Julia package for acoustic scattering and target strength calculations using modal-series, Kirchhoff, boundary-element, finite-element, and fundamental-solution methods. | Julia    |
 | [echoSMs](https://github.com/ices-tools-dev/echosms) ⭐ 23 \| 🐛 11 \| 🌐 Python \| 📅 2026-10-01                        | Making acoustic scattering models available to fisheries and plankton scientists via the world wide web                                                                     | Python   |
-| [echopype](https://github.com/echostack-org/echopype) ⭐ 143 \| 🐛 112 \| 🌐 Python \| 📅 2026-09-28                     | Enabling interoperability and scalability in ocean sonar data analysis                                                                                                      | Python   |
+| [echopype](https://github.com/echostack-org/echopype) ⭐ 143 \| 🐛 113 \| 🌐 Python \| 📅 2026-10-03                     | Enabling interoperability and scalability in ocean sonar data analysis                                                                                                      | Python   |
 
 ***
 

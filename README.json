@@ -2184,8 +2184,8 @@
             "id": 146140633,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T21:41:59Z",
-            "open_issues": 112,
+            "last_commit": "2026-10-03T03:59:40Z",
+            "open_issues": 113,
             "owner": "echostack-org",
             "repo": "echopype",
             "stars": 143,
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:06:21.307Z",
+    "last_updated": "2026-10-03T04:21:29.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome open-source acoustic packages and resources.",
