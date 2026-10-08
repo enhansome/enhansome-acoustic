@@ -229,7 +229,7 @@
             "open_issues": 96,
             "owner": "tlecomte",
             "repo": "friture",
-            "stars": 1121,
+            "stars": 1123,
             "topics": [
               "audio",
               "audio-analysis",
@@ -274,8 +274,8 @@
             "id": 477094400,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-05T15:59:47Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-07T14:03:03Z",
+            "open_issues": 58,
             "owner": "waltsims",
             "repo": "k-wave-python",
             "stars": 229,
@@ -308,7 +308,7 @@
             "open_issues": 15,
             "owner": "Any2HRTF",
             "repo": "Mesh2HRTF",
-            "stars": 193,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -359,12 +359,23 @@
             "id": 1219763444,
             "language": "Julia",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T19:18:23Z",
+            "last_commit": "2026-10-07T19:14:41Z",
             "open_issues": 0,
             "owner": "brandynlucca",
             "repo": "SpheroidalWaves.jl",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "eigenvalue",
+              "fortran",
+              "julia",
+              "numerical-analysis",
+              "oblate-spheroidal",
+              "prolate-spheroidal",
+              "quad-precision",
+              "scientific-computing",
+              "special-function",
+              "spheroidal-wave-functions"
+            ]
           },
           "first_seen": "2026-10-02T02:19:33.978Z"
         }
@@ -386,11 +397,11 @@
             "id": 275682981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T00:18:10Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-07T19:49:24Z",
+            "open_issues": 2,
             "owner": "jmrplens",
             "repo": "phonometry",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "acoustics",
               "aircraft-noise",
@@ -428,11 +439,11 @@
             "id": 29729101,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T16:08:12Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-07T09:05:26Z",
+            "open_issues": 51,
             "owner": "acoular",
             "repo": "acoular",
-            "stars": 657,
+            "stars": 658,
             "topics": [
               "acoustic-imaging",
               "acoustic-testing",
@@ -500,7 +511,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-03T19:37:11Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "PyDMD",
             "repo": "PyDMD",
             "stars": 1263,
@@ -540,7 +551,7 @@
             "open_issues": 22,
             "owner": "LCAV",
             "repo": "pyroomacoustics",
-            "stars": 1950,
+            "stars": 1951,
             "topics": [
               "acoustics",
               "adaptive-filtering",
@@ -863,7 +874,7 @@
             "open_issues": 8,
             "owner": "misuka-renderer",
             "repo": "misuka",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "acoustic",
               "differentiable-rendering",
@@ -918,8 +929,8 @@
             "id": 5002457,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T12:06:13Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-07T14:53:53Z",
+            "open_issues": 90,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseModelling",
             "stars": 236,
@@ -957,7 +968,7 @@
             "open_issues": 74,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseCapture",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "android",
               "collaborative-science",
@@ -1048,11 +1059,11 @@
             "id": 128214585,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-06T19:29:29Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-07T15:32:35Z",
+            "open_issues": 123,
             "owner": "FEniCS",
             "repo": "dolfinx",
-            "stars": 1217,
+            "stars": 1218,
             "topics": [
               "fenicsx",
               "finite-element-methods",
@@ -1102,7 +1113,7 @@
             "open_issues": 34,
             "owner": "bempp",
             "repo": "bempp-cl",
-            "stars": 226,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -1119,7 +1130,7 @@
             "id": 662679851,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T00:08:43Z",
+            "last_commit": "2026-10-07T20:06:35Z",
             "open_issues": 29,
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
@@ -1273,7 +1284,7 @@
             "open_issues": 84,
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1725,
+            "stars": 1726,
             "topics": [
               "acoustic-monitoring",
               "bioacoustics",
@@ -1297,10 +1308,10 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-02-28T09:58:01Z",
-            "open_issues": 63,
+            "open_issues": 62,
             "owner": "Nachtzuster",
             "repo": "BirdNET-Pi",
-            "stars": 1140,
+            "stars": 1141,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -1521,7 +1532,7 @@
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8656,
+            "stars": 8658,
             "topics": [
               "audio",
               "dsp",
@@ -1578,7 +1589,7 @@
             "open_issues": 81,
             "owner": "CPJKU",
             "repo": "madmom",
-            "stars": 1720,
+            "stars": 1723,
             "topics": [
               "audio-analysis",
               "cython",
@@ -1655,7 +1666,7 @@
             "open_issues": 2,
             "owner": "gisogrimm",
             "repo": "tascar",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
@@ -2049,7 +2060,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T18:47:07Z",
-            "open_issues": 319,
+            "open_issues": 320,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1339,
@@ -2114,7 +2125,7 @@
             "id": 161965429,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-05T17:50:45Z",
+            "last_commit": "2026-10-07T18:30:41Z",
             "open_issues": 0,
             "owner": "brandynlucca",
             "repo": "acousticTS",
@@ -2135,12 +2146,24 @@
             "id": 1363143674,
             "language": "Julia",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T23:13:17Z",
+            "last_commit": "2026-10-07T19:28:21Z",
             "open_issues": 0,
             "owner": "brandynlucca",
             "repo": "AcousticScattering.jl",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "acoustic-scattering",
+              "acoustics",
+              "boundary-element-method",
+              "computational-physics",
+              "finite-element-method",
+              "julia",
+              "scientific-computing",
+              "t-matrix",
+              "target-strength",
+              "underwater-acoustics",
+              "wave-scattering"
+            ]
           },
           "first_seen": "2026-10-02T02:19:33.978Z"
         },
@@ -2209,7 +2232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:28:52.615Z",
+    "last_updated": "2026-10-08T02:44:45.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome open-source acoustic packages and resources.",
@@ -2221,7 +2244,7 @@
       "open_issues": 30,
       "owner": "Nitnelav",
       "repo": "awesome-acoustic",
-      "stars": 147,
+      "stars": 148,
       "topics": [
         "acoustic",
         "acoustics",
