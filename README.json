@@ -179,7 +179,7 @@
             "id": 307803156,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T14:45:05Z",
+            "last_commit": "2026-10-13T14:25:55Z",
             "open_issues": 95,
             "owner": "pyfar",
             "repo": "pyfar",
@@ -226,7 +226,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T04:12:33Z",
-            "open_issues": 98,
+            "open_issues": 97,
             "owner": "tlecomte",
             "repo": "friture",
             "stars": 1126,
@@ -278,7 +278,7 @@
             "open_issues": 58,
             "owner": "waltsims",
             "repo": "k-wave-python",
-            "stars": 231,
+            "stars": 230,
             "topics": [
               "acoustics",
               "gpu",
@@ -325,8 +325,8 @@
             "id": 627001780,
             "language": "AGS Script",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T09:18:19Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-13T10:15:53Z",
+            "open_issues": 1,
             "owner": "ggrecow",
             "repo": "SQAT",
             "stars": 100,
@@ -378,6 +378,27 @@
             ]
           },
           "first_seen": "2026-10-02T02:19:33.978Z"
+        },
+        {
+          "node_type": "item",
+          "title": "spectacoular",
+          "description": "Extension for in-browser GUI applications with Acoular at minimal programming effort Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extension for in-browser GUI applications with Acoular at minimal programming effort",
+            "homepage": "https://acoular.org/spectacoular/",
+            "id": 369201161,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-09T17:00:32Z",
+            "open_issues": 13,
+            "owner": "acoular",
+            "repo": "spectacoular",
+            "stars": 54,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "General Tools"
@@ -528,6 +549,54 @@
             ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AcouPipe",
+          "description": "A library for large-scale microphone array data simulation to solve deep learning tasks Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A library for large-scale microphone array data simulation to solve deep learning tasks",
+            "homepage": null,
+            "id": 365949918,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-13T11:54:48Z",
+            "open_issues": 21,
+            "owner": "adku1173",
+            "repo": "acoupipe",
+            "stars": 37,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BRTLibrary",
+          "description": "The Binaural Rendering Toolbox (BRT) is a set of software libraries, applications, and definitions aimed as a virtual laboratory for psychoacoustic experimentation. The BRT is developed in the framework of the SONICOM project and includes the algorithms developed in the 3D Tune-In Toolkit in a new open, extensible architecture. C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Binaural Rendering Toolbox (BRT) is a set of software libraries, applications, and definitions aimed as a virtual laboratory for psychoacoustic experimentation. The BRT is developed in the framework of the SONICOM project and includes the algorithms developed in the 3D Tune-In Toolkit in a new open, extensible architecture.",
+            "homepage": "https://grupodiana.github.io/BRT-Documentation/library/",
+            "id": 657125136,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-08T12:06:40Z",
+            "open_issues": 6,
+            "owner": "GrupoDiana",
+            "repo": "BRTLibrary",
+            "stars": 69,
+            "topics": [
+              "3d-audio",
+              "auralization",
+              "binaural",
+              "rendering",
+              "spatial-audio"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "Signal Processing"
@@ -910,6 +979,38 @@
             ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "shroom",
+          "description": "Spherical Harmonics ROOM, an open-source Python library for room acoustics simulation using Ambisonics, https://arxiv.org/abs/2603.27342, installable via {pip install pyshroom}. Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Spherical Harmonics ROOM, an open-source Python library for room acoustics simulation using Ambisonics, https://arxiv.org/abs/2603.27342, installable via {pip install pyshroom}.",
+            "homepage": null,
+            "id": 1164766394,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-29T08:58:45Z",
+            "open_issues": 0,
+            "owner": "Yhonatangayer",
+            "repo": "shroom",
+            "stars": 27,
+            "topics": [
+              "ambisonics",
+              "array",
+              "audio",
+              "hrtf",
+              "image-source-model",
+              "pyroomacoustics",
+              "sphere",
+              "spherical-geometry",
+              "spherical-harmonics",
+              "stft"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "Room Acoustics"
@@ -929,11 +1030,11 @@
             "id": 5002457,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T14:18:38Z",
-            "open_issues": 101,
+            "last_commit": "2026-10-13T14:56:46Z",
+            "open_issues": 98,
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseModelling",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "acoustics",
               "cnossos-eu",
@@ -1019,6 +1120,34 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "auralization_master",
+          "description": "Auralization framework for aircraft noise MATLAB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Auralization framework for aircraft noise ",
+            "homepage": null,
+            "id": 891537073,
+            "language": "MATLAB",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-30T13:06:17Z",
+            "open_issues": 1,
+            "owner": "ggrecow",
+            "repo": "auralization_master",
+            "stars": 2,
+            "topics": [
+              "acoustics",
+              "aircraft-noise",
+              "auralization",
+              "matlab",
+              "sound-synthesis",
+              "virtual-acoustics"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "Environment"
@@ -1059,11 +1188,11 @@
             "id": 128214585,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-12T22:23:34Z",
+            "last_commit": "2026-10-13T21:36:10Z",
             "open_issues": 113,
             "owner": "FEniCS",
             "repo": "dolfinx",
-            "stars": 1220,
+            "stars": 1222,
             "topics": [
               "fenicsx",
               "finite-element-methods",
@@ -1130,8 +1259,8 @@
             "id": 662679851,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T23:38:20Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-13T23:37:30Z",
+            "open_issues": 30,
             "owner": "MOPT-UFSC",
             "repo": "VIBRA",
             "stars": 20,
@@ -1180,6 +1309,103 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "openTorsion",
+          "description": "Open source library for creating torsional finite element models Jupyter Notebook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source library for creating torsional finite element models",
+            "homepage": null,
+            "id": 381674093,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2026-02-25T11:11:15Z",
+            "open_issues": 1,
+            "owner": "Aalto-Arotor",
+            "repo": "openTorsion",
+            "stars": 28,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rolland",
+          "description": "Time-domain simulation framework for coupled wave propagation in railway tracks Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Time-domain simulation framework for coupled wave propagation in railway tracks",
+            "homepage": "https://rolland-rolling-noise-and-dynamics.readthedocs.io",
+            "id": 913379186,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-09-30T10:54:21Z",
+            "open_issues": 0,
+            "owner": "mantelmax",
+            "repo": "rolland",
+            "stars": 12,
+            "topics": [
+              "finite-difference-method",
+              "perfectly-matched-layers",
+              "railway-acoustics",
+              "rolling-noise",
+              "time-domain"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ROSS",
+          "description": "ROSS is a library written in Python for rotordynamic analysis. Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ROSS is a library written in Python for rotordynamic analysis.",
+            "homepage": "https://ross.readthedocs.io",
+            "id": 159549728,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-30T20:12:43Z",
+            "open_issues": 16,
+            "owner": "petrobras",
+            "repo": "ross",
+            "stars": 209,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TMM",
+          "description": "Transfer Matrix Method for design and prediction of multilayered acoustic treatments. Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Transfer Matrix Method for design and prediction of multilayered acoustic treatments.",
+            "homepage": null,
+            "id": 362187589,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-30T13:17:10Z",
+            "open_issues": 0,
+            "owner": "rinaldipp",
+            "repo": "tmm",
+            "stars": 27,
+            "topics": [
+              "absorption",
+              "acoustics",
+              "impedance",
+              "room-acoustics",
+              "transfer-matrix-method",
+              "treaments"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "FEM, Materials, Vibrations"
@@ -1199,8 +1425,8 @@
             "id": 331722386,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-12T15:55:42Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-14T01:41:35Z",
+            "open_issues": 24,
             "owner": "MitchellAcoustics",
             "repo": "Soundscapy",
             "stars": 59,
@@ -1280,11 +1506,11 @@
             "id": 409216041,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T12:52:19Z",
+            "last_commit": "2026-10-13T15:38:00Z",
             "open_issues": 86,
             "owner": "birdnet-team",
             "repo": "BirdNET-Analyzer",
-            "stars": 1731,
+            "stars": 1733,
             "topics": [
               "acoustic-monitoring",
               "bioacoustics",
@@ -1502,13 +1728,161 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T02:07:35Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "kitzeslab",
             "repo": "opensoundscape",
             "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "bacpipe",
+          "description": "bacpipe (BioAcoustic Pipeline) makes deep learning models in bioacoustics accessible Jupyter Notebook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "bacpipe (BioAcoustic Pipeline) makes deep learning models in bioacoustics accessible",
+            "homepage": "https://bacpipe.readthedocs.io",
+            "id": 874895988,
+            "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-28T22:16:06Z",
+            "open_issues": 6,
+            "owner": "bioacoustic-ai",
+            "repo": "bacpipe",
+            "stars": 75,
+            "topics": [
+              "bioacoustic-ai",
+              "bioacoustics",
+              "computational-bioacoustics",
+              "deep-learning"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gibbonNetR",
+          "description": "R package to use 'torch for R' for automated detection using convolutional neural nets in passive acoustic monitoring (PAM) data HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "R package to use 'torch for R' for automated detection using convolutional neural nets in passive acoustic monitoring (PAM) data",
+            "homepage": "https://denajgibbon.github.io/gibbonNetR/",
+            "id": 680511880,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2025-06-30T17:12:28Z",
+            "open_issues": 2,
+            "owner": "DenaJGibbon",
+            "repo": "gibbonNetR",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HawkEars",
+          "description": "Scan audio recordings and identify birds, amphibians and other classes. Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Scan audio recordings and identify birds, amphibians and other classes.",
+            "homepage": null,
+            "id": 1125486253,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-23T13:25:46Z",
+            "open_issues": 1,
+            "owner": "jhuus",
+            "repo": "HawkEars",
+            "stars": 15,
+            "topics": [
+              "bioacoustics",
+              "bird-audio",
+              "bird-identification",
+              "birdsong",
+              "deep-learning",
+              "ecology",
+              "pytorch",
+              "sound-event-detection"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "bioacoustics-model-zoo",
+          "description": "Pre-trained models for bioacoustic classification tasks Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pre-trained models for bioacoustic classification tasks",
+            "homepage": null,
+            "id": 650316194,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-25T19:27:22Z",
+            "open_issues": 18,
+            "owner": "kitzeslab",
+            "repo": "bioacoustics-model-zoo",
+            "stars": 68,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Chirpity",
+          "description": "AI powered audio analyser for bird call visualisation, detection and cataloguing JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI powered audio analyser for bird call visualisation, detection and cataloguing",
+            "homepage": "https://chirpity.mattkirkland.co.uk",
+            "id": 446769486,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-13T17:50:39Z",
+            "open_issues": 2,
+            "owner": "Mattk70",
+            "repo": "Chirpity-Electron",
+            "stars": 89,
+            "topics": [
+              "bioacoustic-analysis",
+              "bioacoustics",
+              "birdnet",
+              "birdsong-recognition",
+              "nocmig",
+              "tensorflow",
+              "tensorflowjs"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rthoptera",
+          "description": "Standardized insect bioacoustics in R R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Standardized insect bioacoustics in R",
+            "homepage": "https://naturewaves.github.io/Rthoptera/",
+            "id": 863351083,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-10-05T17:37:19Z",
+            "open_issues": 1,
+            "owner": "naturewaves",
+            "repo": "Rthoptera",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "Bioacoustics"
@@ -1532,7 +1906,7 @@
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8673,
+            "stars": 8676,
             "topics": [
               "audio",
               "dsp",
@@ -1589,7 +1963,7 @@
             "open_issues": 81,
             "owner": "CPJKU",
             "repo": "madmom",
-            "stars": 1724,
+            "stars": 1725,
             "topics": [
               "audio-analysis",
               "cython",
@@ -1712,6 +2086,53 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PyMUST",
+          "description": "Python reimplementation of the MUST ultrasound toolbox for synthetic ultrasound image simulation and reconstruction (transducers, delays, B-mode and Doppler beamforming) Jupyter Notebook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 624939689,
+            "language": "Jupyter Notebook",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-09-14T21:07:46Z",
+            "open_issues": 5,
+            "owner": "creatis-ULTIM",
+            "repo": "PyMUST",
+            "stars": 86,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Fullwave 2.5",
+          "description": "Fullwave 2.5: Ultrasound wave propagation simulation with heterogeneous power law attenuation modelling capabilities Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fullwave 2.5: Ultrasound wave propagation simulation with heterogeneous power law attenuation modelling capabilities",
+            "homepage": null,
+            "id": 1085335402,
+            "language": "Python",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-10-12T22:02:16Z",
+            "open_issues": 2,
+            "owner": "pinton-lab",
+            "repo": "fullwave25",
+            "stars": 51,
+            "topics": [
+              "fdtd",
+              "finite-difference",
+              "simulation",
+              "ultrasound"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "Health"
@@ -1853,6 +2274,39 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FLOWUnsteady",
+          "description": "An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy Julia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy",
+            "homepage": "https://flow.byu.edu/FLOWUnsteady/",
+            "id": 211944072,
+            "language": "Julia",
+            "license": "MIT",
+            "last_commit": "2026-09-22T20:58:07Z",
+            "open_issues": 46,
+            "owner": "byuflowlab",
+            "repo": "FLOWUnsteady",
+            "stars": 389,
+            "topics": [
+              "acoustics",
+              "aeroacoustics",
+              "aerodynamics",
+              "aircraft",
+              "cfd",
+              "computational-fluid-dynamics",
+              "rotorcraft",
+              "vortex-methods",
+              "vpm",
+              "vtol",
+              "wind-turbine"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "AeroAcoustics"
@@ -1957,10 +2411,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-21T03:27:00Z",
-            "open_issues": 688,
+            "open_issues": 689,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22230,
+            "stars": 22235,
             "topics": [
               "beit",
               "beit-3",
@@ -2040,6 +2494,33 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "QSpeakers",
+          "description": "loudspeaker enclosure designer C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "loudspeaker enclosure designer",
+            "homepage": "http://brouits.free.fr/qspeakers/",
+            "id": 268652610,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-07T08:10:34Z",
+            "open_issues": 1,
+            "owner": "be1",
+            "repo": "qspeakers",
+            "stars": 55,
+            "topics": [
+              "acoustics",
+              "design",
+              "diy",
+              "loudspeaker",
+              "loudspeaker-enclosure-designer"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "Hardware"
@@ -2106,6 +2587,34 @@
             ]
           },
           "first_seen": "2026-08-28T06:57:45.729Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Infrapy",
+          "description": "An infrasound array processing toolkit Jupyter Notebook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An infrasound array processing toolkit",
+            "homepage": null,
+            "id": 245276537,
+            "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-06T16:09:38Z",
+            "open_issues": 13,
+            "owner": "LANL-Seismoacoustics",
+            "repo": "infrapy",
+            "stars": 54,
+            "topics": [
+              "array",
+              "association",
+              "beamforming",
+              "infrasound",
+              "location",
+              "processing"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "Seismology"
@@ -2226,13 +2735,115 @@
             ]
           },
           "first_seen": "2026-10-02T02:19:33.978Z"
+        },
+        {
+          "node_type": "item",
+          "title": "uacpy",
+          "description": "A unified Python API for major underwater acoustic propagation models and more. Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A unified Python API for major underwater acoustic propagation models and more.",
+            "homepage": null,
+            "id": 1216375482,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-12T07:14:11Z",
+            "open_issues": 0,
+            "owner": "ErVuL",
+            "repo": "uacpy",
+            "stars": 47,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Triton",
+          "description": ":whale: Scripps Whale Acoustics Lab :earth_americas: Scripps Acoustic Ecology Lab - Triton with remoras in development MATLAB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":whale: Scripps Whale Acoustics Lab   :earth_americas: Scripps Acoustic Ecology Lab - Triton with remoras in development",
+            "homepage": null,
+            "id": 167074279,
+            "language": "MATLAB",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-10T03:33:23Z",
+            "open_issues": 31,
+            "owner": "MarineBioAcousticsRC",
+            "repo": "Triton",
+            "stars": 64,
+            "topics": [
+              "acoustics",
+              "audio-processing",
+              "classification",
+              "detection",
+              "machine-learning",
+              "marine-species",
+              "mbarc",
+              "scripps",
+              "sound",
+              "triton",
+              "whale"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "UnderwaterAcoustics.jl",
+          "description": "Julia toolbox for underwater acoustic modeling Julia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Julia toolbox for underwater acoustic modeling",
+            "homepage": null,
+            "id": 245935897,
+            "language": "Julia",
+            "license": "MIT",
+            "last_commit": "2026-09-21T16:58:43Z",
+            "open_issues": 13,
+            "owner": "org-arl",
+            "repo": "UnderwaterAcoustics.jl",
+            "stars": 91,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OSEkit",
+          "description": "OSEkit is an open source suite of tools written in python and dedicated to the management and analysis of data in underwater passive acoustics. Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OSEkit is an open source suite of tools written in python and dedicated to the management and analysis of data in underwater passive acoustics.",
+            "homepage": "https://osmose.ifremer.fr",
+            "id": 593678794,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-13T08:40:57Z",
+            "open_issues": 13,
+            "owner": "Project-OSmOSE",
+            "repo": "OSEkit",
+            "stars": 13,
+            "topics": [
+              "acoustic",
+              "data-analysis-python",
+              "fair",
+              "package",
+              "python"
+            ]
+          },
+          "first_seen": "2026-10-14T01:59:35.833Z"
         }
       ],
       "title": "Underwater Acoustics"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:39:10.071Z",
+    "last_updated": "2026-10-14T01:59:35.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome open-source acoustic packages and resources.",
@@ -2240,11 +2851,11 @@
       "id": 850246299,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-01T07:15:55Z",
-      "open_issues": 30,
+      "last_commit": "2026-10-13T09:20:43Z",
+      "open_issues": 4,
       "owner": "Nitnelav",
       "repo": "awesome-acoustic",
-      "stars": 149,
+      "stars": 150,
       "topics": [
         "acoustic",
         "acoustics",
@@ -2258,7 +2869,7 @@
         "soundscape"
       ]
     },
-    "original_repository_sha": "99e142b06ab0a75c8f07dfdf9b31ff611de92681",
+    "original_repository_sha": "3504e5eff0630b980a09968f5da9ed219155a7f1",
     "enhanced_repository": "enhansome/enhansome-acoustic",
     "enhanced_repository_description": null,
     "title": "Awesome acoustic with stars"
